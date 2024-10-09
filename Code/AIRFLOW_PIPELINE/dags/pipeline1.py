@@ -9,9 +9,8 @@ from airflow.operators.python import PythonOperator
 import pendulum
 from dotenv import load_dotenv
 import logging
-import requests
-from google.cloud import storage
 from datetime import timedelta
+from typing import List, Optional
 
 # Load environment variables
 load_dotenv()
@@ -43,8 +42,9 @@ with DAG(
     schedule='@daily',
 ) as dag:
 
-    def pdf_exists_in_gcs(bucket_name, file_name):
+    def pdf_exists_in_gcs(bucket_name: str, file_name: str) -> bool:
         """Check if the PDF file exists in GCS."""
+        
         try:
             storage_client = storage.Client.from_service_account_json(gcp_creds_path)
             bucket = storage_client.bucket(bucket_name)
@@ -52,36 +52,42 @@ with DAG(
             exists = blob.exists()
             logger.info(f"Checked GCS for {file_name}: Exists = {exists}")
             return exists
+        
         except Exception as e:
             logger.error(f"Error checking existence of {file_name} in GCS: {e}")
-            return False  # Return False if there's an error
+            return False 
 
-    def text_exists_in_gcs(bucket_name, text_file_name):
+    def text_exists_in_gcs(bucket_name: str, text_file_name: str) -> bool:
         """Check if the extracted text file exists in GCS."""
+        
         try:
             storage_client = storage.Client.from_service_account_json(gcp_creds_path)
             bucket = storage_client.bucket(bucket_name)
-            blob = bucket.blob(text_file_name)  # Check the specified path
+            blob = bucket.blob(text_file_name) 
             exists = blob.exists()
             logger.info(f"Checked GCS for {text_file_name}: Exists = {exists}")
             return exists
+        
         except Exception as e:
             logger.error(f"Error checking existence of {text_file_name} in GCS: {e}")
-            return False  # Return False if there's an error
+            return False  
 
-    def download_pdf(file):
+    def download_pdf(file: str) -> str:
         """Download PDF from Hugging Face if it doesn't exist in GCS."""
+        
         try:
             logger.info(f"Downloading PDF: {file}")
             file_path = hf_hub_download(repo_id=repo_id, filename=file, repo_type="dataset", token=hf_token)
             logger.info(f"Successfully downloaded PDF: {file} to {file_path}")
             return file_path
+       
         except Exception as e:
             logger.error(f"Error downloading PDF {file}: {e}")
-            raise  # Reraise the exception to stop the task
+            raise 
 
-    def upload_to_gcs(bucket_name, file_path, file_name):
+    def upload_to_gcs(bucket_name: str, file_path: str, file_name: str) -> None:
         """Uploads a file-like object to the GCS bucket."""
+        
         try:
             storage_client = storage.Client.from_service_account_json(gcp_creds_path)
             bucket = storage_client.bucket(bucket_name)
@@ -89,12 +95,14 @@ with DAG(
             with open(file_path, "rb") as f:
                 blob.upload_from_file(f)
             logger.info(f"Uploaded to {bucket_name}/{file_name}")
+        
         except Exception as e:
             logger.error(f"Error uploading {file_name} to GCS: {e}")
-            raise  # Reraise the exception to stop the task
+            raise  
 
-    def extract_and_upload_contents(pdf_file_path, pdf_file_name):
+    def extract_and_upload_contents(pdf_file_path: str, pdf_file_name: str) -> None:
         """Extract contents from the PDF using PyPDF2 and upload to GCS."""
+        
         extracted_text = ""
         gcs_text_path = f"pdf_extract/{os.path.splitext(pdf_file_name)[0]}.txt"
 
@@ -129,8 +137,9 @@ with DAG(
         except Exception as e:
             logger.error(f"Error extracting contents from {pdf_file_name}: {e}")
     
-    def generate_signed_url(bucket_name, blob_name):
+    def generate_signed_url(bucket_name: str, blob_name: str) -> str:
         """Generate a signed URL for the PDF file in GCS."""
+        
         storage_client = storage.Client.from_service_account_json(gcp_creds_path)
         bucket = storage_client.bucket(bucket_name)
         blob = bucket.blob(blob_name)
@@ -140,28 +149,28 @@ with DAG(
         logger.info(f"Generated signed URL for {blob_name}: {url}")
         return url
 
-    def extract_using_pdfco(pdf_file_path, pdf_file_name):
+    def extract_using_pdfco(pdf_file_path: str, pdf_file_name: str) -> None:
         """Extract contents from the PDF using PDF.co API and upload to GCS."""
+        
         extracted_text = ""
         gcs_text_path = f"pdfextract_pdfco/{os.path.splitext(pdf_file_name)[0]}.txt"
 
         # Check if the text file already exists before extracting
         if text_exists_in_gcs(bucket_name, gcs_text_path):
             logger.info(f"Extracted text for {pdf_file_name} using PDF.co already exists. Skipping extraction.")
-            return  # Skip extraction if the text file already exists
+            return  
         
         signed_url = generate_signed_url(bucket_name, pdf_file_name)
         logger.info(f"Extracting contents from {pdf_file_name} using PDF.co API...")
         
         try:
             response = requests.post(
-            
                 "https://api.pdf.co/v1/pdf/convert/to/text",
                 headers={"x-api-key": pdf_co_api_key},
                 json={
-                    "url":signed_url,
-                    "inline":True
-                    }
+                    "url": signed_url,
+                    "inline": True
+                }
             )
 
             if response.status_code == 200:
@@ -180,8 +189,9 @@ with DAG(
         except Exception as e:
             logger.error(f"Error extracting contents from {pdf_file_name} using PDF.co: {e}")
 
-    def process_pdfs(**kwargs):
+    def process_pdfs(**kwargs) -> None:
         """Main logic to process PDFs."""
+        
         api = HfApi()
         for folder_path in folders_to_check:
             try:
@@ -192,6 +202,8 @@ with DAG(
                     pdf_exists = pdf_exists_in_gcs(bucket_name, pdf_file)
                     gcs_text_path = f"pdf_extract/{os.path.splitext(pdf_file)[0]}.txt"
                     pdfco_text_path = f"pdfextract_pdfco/{os.path.splitext(pdf_file)[0]}.txt"
+                    
+                    #Cgeck if text extract exists
                     text_exists = text_exists_in_gcs(bucket_name, gcs_text_path)
                     pdfco_exists = text_exists_in_gcs(bucket_name, pdfco_text_path)
 
@@ -210,7 +222,6 @@ with DAG(
                         continue
 
                     else: 
-
                         logger.info(f"{pdf_file} does not exist in GCS. Downloading and processing...")
                         
                         # Download PDF since it does not exist in GCS
