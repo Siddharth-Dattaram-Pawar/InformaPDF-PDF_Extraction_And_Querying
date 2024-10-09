@@ -179,7 +179,7 @@ with DAG(
 
         except Exception as e:
             logger.error(f"Error extracting contents from {pdf_file_name} using PDF.co: {e}")
-            
+
     def process_pdfs(**kwargs):
         """Main logic to process PDFs."""
         api = HfApi()
@@ -191,25 +191,40 @@ with DAG(
                     # Check if PDF exists in GCS
                     pdf_exists = pdf_exists_in_gcs(bucket_name, pdf_file)
                     gcs_text_path = f"pdf_extract/{os.path.splitext(pdf_file)[0]}.txt"
+                    pdfco_text_path = f"pdfextract_pdfco/{os.path.splitext(pdf_file)[0]}.txt"
                     text_exists = text_exists_in_gcs(bucket_name, gcs_text_path)
- 
-                    if pdf_exists and text_exists:
-                        logger.info(f"{pdf_file} exists in GCS and extracted text already exists. Skipping extraction.")
+                    pdfco_exists = text_exists_in_gcs(bucket_name, pdfco_text_path)
+
+                    if pdf_exists and text_exists and pdfco_exists:
+                        logger.info(f"{pdf_file} exists in GCS and extracted text from both methods already exists. Skipping extraction.")
                         continue  # Skip both PDF download and extraction
- 
-                    if pdf_exists and not text_exists:
-                        logger.info(f"{pdf_file} exists in GCS but extracted text does not. Proceeding to extract contents...")
-                        # Extract contents from the existing PDF
+
+                    elif pdf_exists and text_exists and not pdfco_exists:
+                        logger.info(f"{pdf_file} exists in GCS but extracted text using PDF.co does not. Proceeding to extract using PDF.co...")
+                        extract_using_pdfco(pdf_file, pdf_file)
+                        continue
+
+                    elif pdf_exists and not text_exists and pdfco_exists:
+                        logger.info(f"{pdf_file} exists in GCS but extracted text using PyPDF does not. Proceeding to extract using PyPDF...")
                         extract_and_upload_contents(pdf_file, pdf_file)
                         continue
- 
-                    # Download PDF since it does not exist in GCS
-                    file_path = download_pdf(pdf_file)
-                    # Upload to GCS
-                    upload_to_gcs(bucket_name, file_path, pdf_file)
-                    # Extract contents
-                    extract_and_upload_contents(file_path, pdf_file)
- 
+
+                    else: 
+
+                        logger.info(f"{pdf_file} does not exist in GCS. Downloading and processing...")
+                        
+                        # Download PDF since it does not exist in GCS
+                        file_path = download_pdf(pdf_file)
+                        
+                        # Upload to GCS
+                        upload_to_gcs(bucket_name, file_path, pdf_file)
+                        
+                        # Extract contents using PyPDF
+                        extract_and_upload_contents(file_path, pdf_file)
+                        
+                        # Extract contents using PDF.co
+                        extract_using_pdfco(file_path, pdf_file)
+
             except Exception as e:
                 logger.error(f"Error processing PDFs in folder {folder_path}: {e}")
 
