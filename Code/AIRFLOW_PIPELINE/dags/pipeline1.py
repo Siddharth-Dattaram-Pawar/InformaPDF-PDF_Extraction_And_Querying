@@ -140,7 +140,46 @@ with DAG(
         logger.info(f"Generated signed URL for {blob_name}: {url}")
         return url
 
+    def extract_using_pdfco(pdf_file_path, pdf_file_name):
+        """Extract contents from the PDF using PDF.co API and upload to GCS."""
+        extracted_text = ""
+        gcs_text_path = f"pdfextract_pdfco/{os.path.splitext(pdf_file_name)[0]}.txt"
 
+        # Check if the text file already exists before extracting
+        if text_exists_in_gcs(bucket_name, gcs_text_path):
+            logger.info(f"Extracted text for {pdf_file_name} using PDF.co already exists. Skipping extraction.")
+            return  # Skip extraction if the text file already exists
+        
+        signed_url = generate_signed_url(bucket_name, pdf_file_name)
+        logger.info(f"Extracting contents from {pdf_file_name} using PDF.co API...")
+        
+        try:
+            response = requests.post(
+            
+                "https://api.pdf.co/v1/pdf/convert/to/text",
+                headers={"x-api-key": pdf_co_api_key},
+                json={
+                    "url":signed_url,
+                    "inline":True
+                    }
+            )
+
+            if response.status_code == 200:
+                extracted_text = response.json().get("body", "")
+                if extracted_text:
+                    # Upload extracted text
+                    storage_client = storage.Client.from_service_account_json(gcp_creds_path)
+                    text_blob = storage_client.bucket(bucket_name).blob(gcs_text_path)
+                    text_blob.upload_from_string(extracted_text)
+                    logger.info(f"Uploaded extracted text to {bucket_name}/{gcs_text_path}")
+                else:
+                    logger.warning(f"No text was extracted using PDF.co for {pdf_file_name}.")
+            else:
+                logger.error(f"Error extracting text using PDF.co for {pdf_file_name}: {response.text}")
+
+        except Exception as e:
+            logger.error(f"Error extracting contents from {pdf_file_name} using PDF.co: {e}")
+            
     def process_pdfs(**kwargs):
         """Main logic to process PDFs."""
         api = HfApi()
