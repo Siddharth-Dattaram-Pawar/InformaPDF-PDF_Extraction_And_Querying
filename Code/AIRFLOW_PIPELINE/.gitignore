@@ -5,6 +5,9 @@ dbinit.py
 initdb.py
 secrets.py
 
+#config folder
+config/
+
 # Airflow sqlite databases
 airflow.db
 
