@@ -1,0 +1,25 @@
+                 Alexander Moore 
+           University of New Mexico 
+                Study Lead: Allen, K., Ph. D. 
+
+            Article: Reviewing the STEM Barrier 
+                The purpose of this research was to investigate the current state of access to journal papers in
+               Science, Technology, Engineering, and Mathematics (STEM) fields. A comprehensive review was
+               conducted to explore the barriers that hinder equal and open access to STEM field knowledge. This
+               study analyzed the impact of subscriptions, publication costs, and limited access on researchers,
+               students, and general knowledge. It examined the role of open access, preprint, and alternative
+                publishing in diversity and inclusivity of knowledge. This article provides an overview of challenges
+               and suggests solutions for addressing the knowledge barrier in STEM fields and the greater
+                scientific community. 
+
+            Contributions: 
+                  - Designed t-test in R programming language 
+                    - Applied t-test for study data synthesis 
+
+               Moore, A. was brought onto the research team after the conceptualization and methodology design
+               of the study. He was provided with annotated research data from previous research and
+                investigation, resources with which to conduct his work, and financial support acquired prior to his
+                 participation. 
+               Moore, A. was supervised by the study lead, who managed all research activity related to the study,
+               validated the tests used by Moore, and provided Moore’s data to the visualization and writing
+               team.

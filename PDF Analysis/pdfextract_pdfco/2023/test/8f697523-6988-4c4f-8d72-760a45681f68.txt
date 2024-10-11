@@ -1,0 +1,1223 @@
+                        Necropolitics
+                             Achille Mbembe
+                                 Translated by Libby Meintjes
+
+
+
+                                                         Wa syo’lukasa pebwe
+                                                          Umwime wa pita
+                                                      [He left his footprint on the stone
+                                                             He himself passed on]
+ T           Lamba proverb, Zambia
+     This essayassumes that the ultimate expression of sovereignty resides, to a
+          large degree, in the power and the capacity to dictate who may live and who
+      must die.1 Hence, to kill or to allow to live constitute the limits of sovereignty, its
+         This essay is the result of sustained conversations with Arjun Appadurai, Carol Breckenridge, and
+      Françoise Vergès. Excerpts were presented at seminars and workshops in Evanston, Chicago, New
+      York, New Haven, and Johannesburg. Useful criticisms were provided by Paul Gilroy, Dilip Parameshwar
+      Gaonkar, Beth Povinelli, Ben Lee, Charles Taylor, Crawford Young, Abdoumaliq Simone,
+      Luc Sindjoun,Souleymane Bachir Diagne, Carlos Forment, Ato Quayson, Ulrike Kistner, David Theo
+      Goldberg, and Deborah Posel. Additional comments and insights as well as critical support and
+      encouragement were offered by Rehana Ebr-Vally and Sarah Nuttall. The essay is dedicated to my
+      late friend Tshikala Kayembe Biaya.
+         1. The essay distances itself from traditional accounts of sovereignty found in the discipline of
+      political science and the subdiscipline of international relations. For the most part, these accounts
+      locate sovereignty within the boundaries of the nation-state, within institutions empowered by the
+      state, or within supranational institutions and networks. See, for example, Sovereignty at the Millen-
+      nium, special issue, Political Studies 47 (1999). My own approach builds on Michel Foucault’s critique
+      of the notion of sovereignty and its relation to war and biopower in Il faut défendre la société: Cours
+      au Collège de France, 1975–1976 (Paris: Seuil, 1997), 37–55, 75–100, 125–48, 213–44. See also
+      Giorgio Agamben, Homo sacer. Le pouvoir souverain et la vie nue (Paris: Seuil, 1997), 23–80.
+      Public Culture 15(1): 11–40
+      Copyright © 2003 by Duke University Press
+                                                                                11
+
+      Public Culture            fundamental attributes. To exercise sovereignty is to exercise control over mortality
+                              and to de ne life as the deployment and manifestation of power.
+                       One could summarize in the above terms what Michel Foucault meant by
+                          biopower: that domain of life over which power has taken control.2 But under
+                              what practical conditions is the right to kill, to allow to live, or to expose to death
+                         exercised? Who is the subject of this right? What does the implementation of
+                              such a right tell us about the person who is thus put to death and about the relation
+                            of enmity that sets that person against his or her murderer? Is the notion of
+                             biopower suf cient to account for the contemporary ways in which the political,
+                              under the guise of war, of resistance, or of the  ght against terror, makes the murder
+                              of the enemy its primary and absolute objective? War, after all, is as much a
+                              means of achieving sovereignty as a way of exercising the right to kill. Imagining
+                              politics as a form of war, we must ask: What place is given to life, death, and the
+                             human body (in particular the wounded or slain body)? How are they inscribed in
+                             the order of power?
+
+                             Politics, the Work of Death, and the “Becoming Subject”
+                              In order to answer these questions, this essay draws on the concept of biopower and
+                              explores its relation to notions of sovereignty ( imperium) and the state of excep-
+                              tion.3 Such an analysis raises a number of empirical and philosophical questions I
+                              would like to examine brie y. As is well known, the concept of the state of exception
+                              has been often discussed in relation to Nazism, totalitarianism, and the concentration
+                            /extermination camps. The death camps in particular have been interpreted
+                              variously as the central metaphor for sovereign and destructive violence and
+                             as the ultimate sign of the absolute power of the negative. Says Hannah Arendt:
+                              “There are no parallels to the life in the concentration camps. Its horror can never
+                              be fully embraced by the imagination for the very reason that it stands outside of
+                              life and death.”4 Because its inhabitants are divested of political status and reduced
+                              to bare life, the camp is, for Giorgio Agamben, “the place in which the most absolute
+                              conditio inhumana ever to appear on Earth was realized.”5 In the political-juridical
+                              structure of the camp, he adds, the state of exception ceases to be a temporal sus-
+                                 2. Foucault, Il faut défendre la société, 213–34.
+                                 3. On the state of exception, see Carl Schmitt, La dictature, trans. Mira Köller and Dominique
+                              Séglard (Paris: Seuil, 2000), 210–28, 235–36, 250–51, 255–56; La notion de politique. Théorie du
+                              partisan, trans. Marie-Louise Steinhauser (Paris: Flammarion, 1992).
+                                 4. Hannah Arendt, The Origins of Totalitarianism (New York: Harvest, 1966), 444.
+                                 5. Giorgio Agamben, Moyens sans  ns. Notes sur la politique (Paris: Payot & Rivages, 1995), 50– 51.
+
+                            12
+
+      pension of the state of law. According to Agamben, it acquires a permanent spatial             Necropolitics
+      arrangement that remains continually outside the normal state of law.
+         The aim of this essay is not to debate the singularity of the extermination of the
+      Jews or to hold it up by way of example.6 I start from the idea that modernity was
+      at the origin of multiple concepts of sovereignty—and therefore of the biopolitical.
+      Disregarding this multiplicity, late-modern political criticism has unfortunately
+      privileged normative theories of democracy and has made the concept of
+      reason one of the most important elements of both the project of modernity and of
+      the topos of sovereignty.7 From this perspective, the ultimate expression of sovereignty
+      is the production of general norms by a body (the demos) made up of free
+     and equal men and women. These men and women are posited as full subjects
+      capable of self-understanding, self-consciousness, and self-representation. Politics
+      , therefore, is de ned as twofold: a project of autonomy and the achieving of
+      agreement among a collectivitythrough communicationand recognition. This, we
+      are told, is what differentiates it from war.8
+         In other words, it is on the basis of a distinction between reason and unreason
+      (passion, fantasy) that late-modern criticism has been able to articulate a certain
+      idea of the political, the community, the subject—or, more fundamentally, of
+      what the good life is all about, how to achieve it, and, in the process, to become a
+      fully moral agent. Within this paradigm, reason is the truth of the subject and politics
+      is the exercise of reason in the public sphere. The exercise of reason is tantamount
+      to the exercise of freedom, a key element for individual autonomy. The
+     romance of sovereignty, in this case, rests on the belief that the subject is the
+     master and the controlling author of his or her own meaning. Sovereignty is
+      therefore de ned as a twofold process of self-institution and self-limitation ( xing
+      one’s own limits for oneself). The exercise of sovereignty, in turn, consists in
+      society’s capacity for self-creation through recourse to institutions inspired by
+      speci c social and imaginary signi cations.9
+        This strongly normative reading of the politics of sovereignty has been the
+         6. On these debates, see Saul Friedlander, ed., Probing the Limits of Representation: Nazism and
+      the “Final Solution” (Cambridge: Harvard University Press, 1992); and, more recently, Bertrand
+      Ogilvie, “Comparer l’incomparable,” Multitudes, no. 7 (2001): 130–66.
+         7. See James Bohman and William Rehg, eds., Deliberative Democracy: Essays on Reason and
+      Politics (Cambridge: MIT Press, 1997); Jürgen Habermas, Between Facts and Norms (Cambridge:
+      MIT Press, 1996).
+         8. James Schmidt, ed., What Is Enlightenment?Eighteenth-Century Answers and Twentieth-Century
+      Questions (Berkeley: University of California Press, 1996).
+         9. Cornelius Castoriadis, L’institution imaginaire de la société (Paris: Seuil, 1975) and Figures du
+      pensable (Paris: Seuil, 1999).
+
+                                                                                  13
+
+      Public Culture            object of numerous critiques, which I will not rehearse here.10 My concern is
+                              those  gures of sovereignty whose central project is not the struggle for autonomy
+                             but the generalized instrumentalization of human existence and the material
+                             destruction of human bodies and populations. Such  gures of sovereignty are far
+                        from a piece of prodigious insanity or an expression of a rupture between the
+                             impulses and interests of the body and those of the mind. Indeed, they, like the
+                            death camps, are what constitute the nomos of the political space in which we
+                             still live. Furthermore, contemporary experiences of human destruction suggest
+                              that it is possible to develop a reading of politics, sovereignty, and the subject different
+                             from the one we inherited from the philosophical discourse of modernity.
+                             Instead of considering reason as the truth of the subject, we can look to other
+                             foundational categories that are less abstract and more tactile, such as life and
+                            death.
+                                Signi cant for such a project is Hegel’s discussion of the relation between
+                             death and the “becoming subject.” Hegel’s account of death centers on a bipartite
+                              concept of negativity. First, the human negates nature (a negation exteriorized in
+                             the human’s effort to reduce nature to his or her own needs); and second, he or
+                            she transforms the negated element through work and struggle. In transforming
+                             nature, the human being creates a world; but in the process, he or she also is
+                         exposed to his or her own negativity. Within the Hegelian paradigm, human
+                              death is essentially voluntary. It is the result of risks consciously assumed by the
+                              subject. According to Hegel, in these risks the “animal” that constitutesthe human
+                              subject’s natural being is defeated.
+                               In other words, the human being truly becomes a subject—that is, separated
+                        from the animal—in the struggle and the work through which he or she confronts
+                              death (understood as the violence of negativity). It is through this confrontation
+                              with death that he or she is cast into the incessant movement of history.
+                            Becoming subject therefore supposes upholdingthe work of death. To uphold the
+                              work of death is precisely how Hegel de nes the life of the Spirit. The life of the
+                              Spirit, he says, is not that life which is frightened of death, and spares itself
+                              destruction, but that life which assumes death and lives with it. Spirit attains its
+                              truth only by  nding itself in absolute dismemberment.11 Politics is therefore
+                                 10. See, in particular, Paul Gilroy, The Black Atlantic: Modernity and Double Consciousness
+                              (Cambridge: Harvard University Press, 1993), especially chap. 2.
+                                 11. G. W. F. Hegel, Phénoménologie de l’esprit, trans. J. P. Lefebvre (Paris: Aubier, 1991). See also
+                              the critique by Alexandre Kojève, Introduction à la lecture de Hegel (Paris: Gallimard, 1947), especially
+                              Appendix II, “L’idée de la mort dans la philosophie de Hegel”; and Georges Bataille, Oeuvres
+                              complètes XII (Paris: Gallimard, 1988), especially “Hegel, la mort et le sacri ce,” 326–48, and “Hegel,
+                              l’homme et l’histoire,” 349–69.
+
+                            14
+
+      death that lives a human life. Such, too, is the de nition of absolute knowledge             Necropolitics
+      and sovereignty: risking the entirety of one’s life.
+         Georges Bataille also offers critical insights into how death structures the idea
+      of sovereignty, the political, and the subject. Bataille displaces Hegel’s conception
+      of the linkages between death, sovereignty, and the subject in at least three
+      ways. First, he interprets death and sovereignty as the paroxysm of exchange and
+     superabundance—or, to use his own terminology: excess. For Bataille, life is
+      defective only when death has taken it hostage. Life itself exists only in bursts
+      and in exchange with death.12 He argues that death is the putrefaction of life, the
+      stench that is at once the source and the repulsive condition of life. Therefore,
+      although it destroys what was to be, obliterates what was supposed to continue
+      being, and reduces to nothing the individual who takes it, death does not come
+      down to the pure annihilationof being. Rather, it is essentially self-consciousness;
+      moreover, it is the most luxurious form of life, that is, of effusion and exuberance
+     : a power of proliferation. Even more radically, Bataille withdraws death
+     from the horizon of meaning. This is in contrast to Hegel, for whom nothing is
+      de nitively lost in death; indeed, death is seen as holding great signi cation as a
+      means to truth.
+         Second, Bataille  rmly anchors death in the realm of absolute expenditure (the
+      other characteristic of sovereignty), whereas Hegel tries to keep death within the
+      economy of absolute knowledge and meaning. Life beyond utility, says Bataille,
+      is the domain of sovereignty. This being the case, death is therefore the point at
+      which destruction, suppression, and sacri ce constitute so irreversible and radical
+     an expenditure—an expenditure without reserve—that they can no longer be
+     determined as negativity. Death is therefore the very principle of excess—an
+     anti-economy. Hence the metaphor of luxury and of the luxurious character of
+      death.
+         Third, Bataille establishes a correlation among death, sovereignty, and sexuality.
+      Sexuality is inextricably linked to violence and to the dissolution of the
+      boundaries of the body and self by way of orgiastic and excremental impulses. As
+      such, sexuality concerns two major forms of polarized human impulses—excretion
+      and appropriation—as well as the regime of the taboos surrounding them.13
+      The truth of sex and its deadly attributes reside in the experience of loss of the
+      boundaries separating reality, events, and fantasized objects.
+         12. See Jean Baudrillard, “Death in Bataille,” in Bataille: A Critical Reader, ed. Fred Botting and
+      Scott Wilson (Oxford: Blackwell, 1998), especially 139–41.
+         13. Georges Bataille, Visions of Excess: Selected Writings, 1927–1939, trans. A. Stoekl (Minneapolis
+      : University of Minnesota Press, 1985), 94–95.
+
+                                                                                  15
+
+      Public Culture               For Bataille, sovereignty therefore has many forms. But ultimately it is the
+                              refusal to accept the limits that the fear of death would have the subject respect.
+                              The sovereign world, Bataille argues, “is the world in which the limit of death is
+                              done away with. Death is present in it, its presence de nes that world of violence,
+                              but while death is present it is always there only to be negated, never for anything
+                              but that. The sovereign,” he concludes, “is he who is, as if death were not. . . . He
+                              has no more regard for the limits of identity than he does for limits of death, or
+                              rather these limits are the same; he is the transgression of all such limits.” Since
+                              the natural domain of prohibitions includes death, among others (e.g., sexuality,
+                               lth, excrement), sovereignty requires “the strength to violate the prohibition
+                              against killing, although it’s true this will be under the conditions that customs
+                              de ne.” And contrary to subordination that is always rooted in necessity and the
+                              alleged need to avoid death, sovereignty de nitely calls for the risk of death.14
+                                 By treating sovereignty as the violation of prohibitions, Bataille reopens the
+                            question of the limits of the political. Politics, in this case, is not the forward
+                              dialectical movement of reason. Politics can only be traced as a spiral transgression
+                              , as that difference that disorients the very idea of the limit. More speci cally,
+                              politics is the difference put into play by the violation of a taboo.15
+
+                            Biopower and the Relation of Enmity
+                              Having presented a reading of politics as the work of death, I turn now to sovereignty
+                              , expressed predominantly as the right to kill. For the purpose of my argument
+                             , I relate Foucault’s notion of biopower to two other concepts: the state of
+                              exception and the state of siege.16 I examine those trajectories by which the state
+                             of exception and the relation of enmity have become the normative basis of the
+                              right to kill. In such instances, power (and not necessarily state power) continuously
+                              refers and appeals to exception, emergency, and a  ctionalized notion
+                             of the enemy. It also labors to produce that same exception, emergency, and  ctionalizedenemy.
+                              In other words, the question is: What is the relationship between
+                              politics and death in those systems that can function only in a state of emergency?
+                                In Foucault’s formulation of it, biopower appears to function through dividing
+                                 14. Fred Botting and Scott Wilson, eds., The Bataille Reader (Oxford: Blackwell, 1997), 318–19.
+                              See also Georges Bataille, The Accursed Share: An Essay on General Economy, vol. 1, Consumption ,
+                              trans. Robert Hurley (New York: Zone, 1988), and Erotism: Death & Sensuality, trans. Mary Dalwood
+                              (San Francisco: City Lights, 1986).
+                                 15. Bataille, Accursed Share, vol. 2, The History of Eroticism; vol. 3, Sovereignty.
+                                 16. On the state of siege, see Schmitt, La dictature, chap. 6.
+
+                            16
+
+      people into those who must live and those who must die. Operating on the basis             Necropolitics
+      of a split between the living and the dead, such a power de nes itself in relation
+      to a biological  eld—which it takes control of and vests itself in. This control
+      presupposes the distribution of human species into groups, the subdivision of the
+      populationinto subgroups, and the establishment of a biological caesura between
+      the ones and the others. This is what Foucault labels with the (at  rst sight familiar
+      ) term racism.17
+         That race (or for that matter racism)  gures so prominently in the calculus of
+      biopower is entirely justi able. After all, more so than class-thinking (the ideology
+      that de nes history as an economic struggle of classes), race has been the
+      ever present shadow in Western political thought and practice, especially when it
+      comes to imagining the inhumanity of, or rule over, foreign peoples. Referring to
+     both this ever-presence and the phantomlike world of race in general, Arendt
+      locates their roots in the shattering experience of otherness and suggests that the
+      politics of race is ultimately linked to the politics of death.18 Indeed, in Foucault’s
+      terms, racism is above all a technology aimed at permitting the exercise of
+      biopower, “that old sovereign right of death.”19 In the economy of biopower, the
+      function of racism is to regulate the distribution of death and to make possible the
+      murderous functions of the state. It is, he says, “the condition for the acceptability
+      of putting to death.”20
+         Foucault states clearly that the sovereign right to kill ( droit de glaive) and the
+      mechanisms of biopower are inscribed in the way all modern states function;21
+      indeed, they can be seen as constitutive elements of state power in modernity.
+      According to Foucault, the Nazi state was the most complete example of a state
+      exercising the right to kill. This state, he claims, made the management, protection
+      , and cultivation of life coextensive with the sovereign right to kill. By biological
+      extrapolation on the theme of the political enemy, in organizing the war
+      against its adversaries and, at the same time, exposing its own citizens to war, the
+      Nazi state is seen as having opened the way for a formidable consolidation of the
+      right to kill, which culminated in the project of the “ nal solution.” In doing so, it
+      became the archetype of a power formation that combined the characteristics of
+      the racist state, the murderous state, and the suicidal state.
+         17. See Foucault, Il faut défendre la société, 57–74.
+         18. “Race is, politically speaking, not the beginning of humanity but its end . . . , not the natural
+      birth of man but his unnatural death.” Arendt, Origins of Totalitarianism, 157.
+         19. Foucault, Il faut défendre la société, 214.
+         20. Foucault, Il faut défendre la société, 228.
+         21. Foucault, Il faut défendre la société, 227–32.
+
+                                                                                  17
+
+      Public Culture               It has been argued that the complete con ation of war and politics (and racism,
+                              homicide, and suicide), until they are indistinguishablefrom one another, is unique
+                             to the Nazi state. The perception of the existence of the Other as an attempt on
+                              my life, as a mortal threat or absolute danger whose biophysicalelimination would
+                              strengthen my potential to life and security— this, I suggest, is one of the many
+                              imaginaries of sovereignty characteristic of both early and late modernity itself.
+                           Recognition of this perception to a large extent underpins most traditional critiques
+                             of modernity, whether they are dealing with nihilism and its proclamation
+                              of the will for power as the essence of the being; with rei cation understood as
+                            the becoming-object of the human being; or the subordination of everything to
+                              impersonal logic and to the reign of calculability and instrumental rationality.22
+                              Indeed, from an anthropological perspective, what these critiques implicitly contest
+                              is a de nition of politics as the warlike relation par excellence. They also
+                              challenge the idea that, of necessity, the calculus of life passes through the death
+                              of the Other; or that sovereignty consists of the will and the capacity to kill in
+                              order to live.
+                            Taking a historical perspective, a number of analysts have argued that the
+                             material premises of Nazi extermination are to be found in colonial imperialism
+                              on the one hand and, on the other, in the serialization of technical mechanisms for
+                            putting people to death—mechanisms developed between the Industrial Revolution
+                            and the First World War. According to Enzo Traverso, the gas chambers and
+                             the ovens were the culmination of a long process of dehumanizing and industrializing
+                              death, one of the original features of which was to integrate instrumental
+                              rationality with the productive and administrative rationality of the modern Western
+                            world (the factory, the bureaucracy, the prison, the army). Having become
+                             mechanized, serialized execution was transformed into a purely technical, impersonal
+                             , silent, and rapid procedure. This development was aided in part by racist
+                           stereotypes and the  ourishing of a class-based racism that, in translating the
+                             social con icts of the industrial world in racial terms, ended up comparing the
+                              working classes and “stateless people” of the industrial world to the “savages” of
+                              the colonial world.23
+                                 In reality, the links between modernity and terror spring from multiple sources.
+                             Some are to be found in the political practices of the ancien régime. From this
+                              perspective, the tension between the public’s passion for blood and notions of jus-
+                                 22. See Jürgen Habermas, The Philosophical Discourse of Modernity: Twelve Lectures, trans.
+                              Frederick G. Lawrence (Cambridge: MIT Press, 1987), especially chaps. 3, 5, 6.
+                                 23. Enzo Traverso, La violence nazie: Une généalogie européenne (Paris: La Fabrique Editions,
+                              2002).
+
+                            18
+
+      tice and revenge is critical. Foucault shows in Discipline and Punish how the exe-             Necropolitics
+      cution of the would-be regicide Damiens went on for hours, much to the satisfaction
+      of the crowd.24 Well known is the long procession of the condemned through
+      the streets prior to execution, the parade of body parts—a ritual that became a
+      standard feature of popular violence—and the  nal display of a severed head
+      mounted on a pike. In France, the advent of the guillotine marks a new phase in
+     the “democratization” of the means of disposing of the enemies of the state.
+      Indeed, this form of execution that had once been the prerogative of the nobility
+      is extended to all citizens. In a context in which decapitation is viewed as less
+      demeaning than hanging, innovations in the technologies of murder aim not only
+      at “civilizing” the ways of killing. They also aim at disposing of a large number of
+      victims in a relatively short span of time. At the same time, a new cultural sensibility
+      emerges in which killing the enemy of the state is an extension of play.
+      More intimate, lurid, and leisurely forms of cruelty appear.
+         But nowhere is the con ation of reason and terror so manifest as during the
+     French Revolution.25 During the French Revolution, terror is construed as an
+      almost necessary part of politics. An absolute transparency is claimed to exist
+      between the state and the people. As a political category, “the people” is gradually
+      displaced from concrete reality to rhetorical  gure. As David Bates has
+      shown, the theorists of terror believe it possible to distinguish between authentic
+      expressions of sovereignty and the actions of the enemy. They also believe it possible
+      to distinguish between the “error” of the citizen and the “crime” of the counterrevolutionary
+      in the political sphere. Terror thus becomes a way of marking
+      aberration in the body politic, and politics is read both as the mobile force of reason
+      and as the errant attempt at creating a space where “error” would be reduced,
+      truth enhanced, and the enemy disposed of.26
+         Finally, terror is not linked solely to the utopian belief in the unfettered power
+      of human reason. It is also clearly related to various narratives of mastery and
+     emancipation, most of which are underpinned by Enlightenment understandings
+      of truth and error, the “real” and the symbolic. Marx, for example, con ates labor
+      (the endless cycle of production and consumption required for the maintenance
+      of human life) with work (the creation of lasting artifacts that add to the world of
+      things). Labor is viewed as the vehicle for the historical self-creation of humankind.
+         24. Michel Foucault, Discipline and Punish: The Birth of the Prison (New York: Pantheon, 1977).
+         25. See Robert Wokler, “Contextualizing Hegel’s Phenomenology of the French Revolution and
+      the Terror,” Political Theory 26 (1998): 33–55.
+         26. David W. Bates, Enlightenment Aberrations: Error and Revolution in France (Ithaca, N.Y.:
+      Cornell University Press, 2002), chap. 6.
+
+                                                                                  19
+
+      Public Culture            The historical self-creation of humankind is itself a life-and-death con ict, that
+                              is, a con ict over what paths should lead to the truth of history: the overcoming
+                            of capitalism and the commodity form and the contradictions associated with
+                           both. According to Marx, with the advent of communism and the abolition of
+                              exchange relations, things will appear as they really are; the “real” will present
+                              itself as it actually is, and the distinctionbetween subject and object or being and
+                            consciousness will be transcended.27 But by making human emancipation dependent
+                            upon the abolition of commodity production, Marx blurs the all-important
+                           divisions among the man-made realm of freedom, the nature-determined realm
+                              of necessity, and the contingent in history.
+                              The commitment to the abolition of commodity production and the dream of
+                             direct and unmediated access to the “real” make these processes—the ful llment
+                             of the so-called logic of history and the fabrication of humankind—almost necessarily
+                              violent processes. As shown by Stephen Louw, the central tenets of classical
+                            Marxism leave no choice but to “try to introduce communism by administrative
+                               at, which, in practice, means that social relations must be decommodi ed
+                              forcefully.”28 Historically, these attempts have taken such forms as labor militarization
+                              , the collapse of the distinctionbetween state and society, and revolutionary
+                           terror.29 It may be argued that they aimed at the eradication of the basic
+                              human condition of plurality. Indeed, the overcoming of class divisions, the withering
+                              away of the state, the  owering of a truly general will presuppose a view of
+                            human plurality as the chief obstacle to the eventual realization of a predetermined
+                              telos of history. In other words, the subject of Marxian modernity is, fundamentally
+                              , a subject who is intent on proving his or her sovereignty through the
+                              staging of a  ght to the death. Just as with Hegel, the narrative of mastery and
+                              emancipation here is clearly linked to a narrative of truth and death. Terror and
+                             killing become the means of realizing the already known telos of history.
+                                 27. Karl Marx, Capital: A Critique of Political Economy, vol. 3 (London: Lawrence & Wishart,
+                              1984), 817. See also Capital, vol. 1, trans. Ben Fowkes (Harmondsworth, England: Penguin, 1986), 172.
+                                 28. Stephen Louw, “In the Shadow of the Pharaohs: The Militarization of Labour Debate and
+                              Classical Marxist Theory,” Economy and Society (29) 2000: 240.
+                                 29. On labor militarization and the transition to communism, see Nikolai Bukharin, The Politics
+                              and Economics of the Transition Period, trans. Oliver Field (London: Routledge & Kegan Paul, 1979);
+                              and Leon Trotsky, Terrorism and Communism: A Reply to Karl Kautsky (Ann Arbor: University of
+                              Michigan Press, 1961). On the collapse of the distinction between state and society, see Karl Marx,
+                              The Civil War in France (Moscow: Progress, 1972); and Vladimir Il’ich Lenin, Selected Works in Three
+                              Volumes, vol. 2 (Moscow: Progress, 1977). For a critique of “revolutionary terror,” see Maurice Mer-
+                              leau-Ponty, Humanism and Terror: An Essay on the Communist Problem, trans. John O’Neill (Boston:
+                              Beacon, 1969). For a more recent example of “revolutionary terror,” see Steve J. Stern, ed., Shining
+                              and Other Paths: War and Society in Peru, 1980–1995 (Durham, N.C.: Duke University Press, 1998).
+
+                            20
+
+         Any historical account of the rise of modern terror needs to address slavery,             Necropolitics
+      which could be considered one of the  rst instances of biopolitical experimentation.
+      In many respects, the very structure of the plantation system and its aftermath
+      manifests the emblematic and paradoxical  gure of the state of exception.30
+      This  gure is paradoxical here for two reasons. First, in the context of the plantation
+      , the humanity of the slave appears as the perfect  gure of a shadow. Indeed,
+      the slave condition results from a triple loss: loss of a “home,” loss of rights over
+      his or her body, and loss of political status. This triple loss is identical with absolute
+      domination,natal alienation,and social death (expulsion from humanity altogether).
+      To be sure, as a political-juridical structure, the plantation is a space where the
+      slave belongs to a master. It is not a community if only because by de nition, a
+     community implies the exercise of the power of speech and thought. As Paul
+      Gilroy says, “The extreme patterns of communication de ned by the institution
+      of plantation slavery dictate that we recognize the anti-discursive and extralinguistic
+      rami cations of power at work in shaping communicative acts. There
+      may, after all, be no reciprocity on the plantation outside of the possibilities of
+      rebellion and suicide,  ight and silent mourning, and there is certainly no grammatical
+      unity of speech to mediate communicative reason. In many respects, the
+      plantation inhabitants live non-synchronously.”31 As an instrument of labor, the
+      slave has a price. As a property, he or she has a value. His or her labor is needed
+      and used. The slave is therefore kept alive but in a state of injury, in a phantomlike
+      world of horrors and intense cruelty and profanity. The violent tenor of the
+      slave’s life is manifested through the overseer’s disposition to behave in a cruel
+     and intemperate manner and in the spectacle of pain in icted on the slave’s
+      body.32 Violence, here, becomes an element in manners,33 like whipping or taking
+      of the slave’s life itself: an act of caprice and pure destruction aimed at instilling
+      terror.34 Slave life, in many ways, is a form of death-in-life. As Susan Buck-
+         30. See Saidiya V. Hartman, Scenes of Subjection: Terror, Slavery, and Self-Making in Nineteenth-
+      Century America (Oxford: Oxford University Press, 1997); and Manuel Moreno Fraginals, The Sugarmill
+      : The Socioeconomic Complex of Sugar in Cuba, 1760–1860 (New York: Monthly Review
+      Press, 1976).
+         31. Gilroy, Black Atlantic, 57.
+         32. See Frederick Douglass, Narrative of the Life of Frederick Douglass, an American Slave, ed.
+      Houston A. Baker (New York: Penguin, 1986).
+         33. The term manners is used here to denote the links between social grace and social control.
+      According to Norbert Elias, manners embody what is “considered socially acceptable behavior,” the
+      “precepts on conduct,” and the framework for “conviviality.” The History of Manners, vol. 1, The Civ-
+      ilizing Process, trans. Edmund Jephcott (New York: Pantheon, 1978), chap. 2.
+         34. “The louder she screamed, the harder he whipped; and where the blood ran faster, there he
+      whipped longest, says Douglass in his narration of the whipping of his aunt by Mr. Plummer. He
+
+                                                                                  21
+
+      Public Culture            Morss has suggested, the slave condition produces a contradiction between freedom
+                            of property and freedom of person. An unequal relationship is established
+                          along with the inequality of the power over life. This power over the life of
+                              another takes the form of commerce: a person’s humanity is dissolved to the point
+                              where it becomes possible to say that the slave’s life is possessed by the master.35
+                              Because the slave’s life is like a “thing,” possessed by another person, the slave
+                              existence appears as a perfect  gure of a shadow.
+                                 In spite of the terror and the symbolic sealing off of the slave, he or she maintains
+                              alternative perspectives toward time, work, and self. This is the second
+                           paradoxical element of the plantation world as a manifestation of the state of
+                            exception. Treated as if he or she no longer existed except as a mere tool and
+                              instrument of production, the slave nevertheless is able to draw almost any object,
+                              instrument, language, or gesture into a performance and then stylize it. Breaking
+                             with uprootedness and the pure world of things of which he or she is but a fragment
+                              , the slave is able to demonstrate the protean capabilities of the human bond
+                             through music and the very body that was supposedly possessed by another.36
+                                 If the relations between life and death, the politics of cruelty, and the symbolics
+                              of profanity are blurred in the plantation system, it is notably in the colony
+                              and under the apartheid regime that there comes into being a peculiar terror formation
+                              I will now turn to.37 The most original feature of this terror formation is
+                              its concatenation of biopower, the state of exception, and the state of siege. Crucial
+                              to this concatenation is, once again, race.38 In fact, in most instances, the
+                              would whip her to make her scream, and whip her to make her hush; and not until overcome by
+                              fatigue, would he cease to swing the blood-clottedcowskin. . . . It was a most terrible spectacle.” Douglass
+                              , Narrative of the Life, 51. On the random killing of slaves, see 67–68.
+                                 35. Susan Buck-Morss, “Hegel and Haiti,” Critical Inquiry 26 (2000): 821–66.
+                                 36. Roger D. Abrahams, Singing the Master: The Emergence of African American Culture in the
+                              Plantation South (New York: Pantheon, 1992).
+                                 37. In what follows I am mindful of the fact that colonial forms of sovereignty were always fragmented.
+                              They were complex, “less concerned with legitimizing their own presence and more excessively
+                              violent than their European forms.” As importantly, “European states never aimed at governing
+                              the colonial territories with the same uniformity and intensity as was applied to their own populations.”
+                              T. B. Hansen and Finn Stepputat, “Sovereign Bodies: Citizens, Migrants and States in the Postcolonial
+                              World” (paper, 2002).
+                                 38. In The Racial State (Malden, Mass: Blackwell, 2002), David Theo Goldberg argues that from
+                              the nineteenth century on, there are at least two historically competing traditions of racial rationalization
+                              : naturism (based on an inferiority claim) and historicism (based on the claim of the historical
+                              “immaturity”—and therefore “educability”—of the natives). In a private communication (23 August
+                              2002), he argues that these two traditions played out differently when it came to issues of sovereignty,
+                              states of exception, and forms of necropower. In his view, necropower can take multiple forms: the
+                              terror of actual death; or a more “benevolent” form—the result of which is the destruction of a culture
+                              in order to “save the people” from themselves.
+                            22
+
+      selection of races, the prohibition of mixed marriages, forced sterilization, even             Necropolitics
+      the extermination of vanquished peoples are to  nd their  rst testing ground in
+      the colonialworld. Here we see the  rst syntheses between massacre and bureaucracy
+      , that incarnation of Western rationality.39 Arendt develops the thesis that
+      there is a link between national-socialism and traditional imperialism. According
+      to her, the colonial conquest revealed a potential for violence previously unknown.
+      What one witnesses in World War II is the extension to the “civilized” peoples of
+      Europe of the methods previously reserved for the “savages.”
+        That the technologies which ended up producing Nazism should have originated
+      in the plantation or in the colony or that, on the contrary—Foucault’s thesis
+      —Nazism and Stalinism did no more than amplify a series of mechanisms that
+      already existed in Western European social and political formations (subjugation
+      of the body, health regulations, social Darwinism, eugenics, medico-legal theories
+      on heredity, degeneration, and race) is, in the end, irrelevant. A fact remains,
+     though: in modern philosophical thought and European political practice and
+      imaginary, the colony represents the site where sovereignty consists fundamentally
+      in the exercise of a power outside the law ( ab legibus solutus) and where
+      “peace” is more likely to take on the face of a “war without end.”
+         Indeed, such a view corresponds to Carl Schmitt’s de nition of sovereignty at
+      the beginning of the twentieth century, namely, the power to decide on the state of
+      exception. To properly assess the ef cacy of the colony as a formation of terror,
+      we need to take a detour into the European imaginary itself as it relates to the critical
+      issue of the domestication of war and the creation of a European juridical
+      order (Jus publicum Europaeum). At the basis of this order were two key principles.
+      The  rst postulated the juridical equality of all states. This equality was
+      notably applied to the right to wage war (the taking of life). The right to war meant
+      two things. On the one hand, to kill or to conclude peace was recognized as one of
+      the preeminent functions of any state. It went hand in hand with the recognition
+      of the fact that no state could make claims to rule outside of its borders. But conversely
+      , the state could recognize no authority above it within its own borders. On
+      the other hand, the state, for its part, undertook to “civilize” the ways of killing
+      and to attribute rational objectives to the very act of killing.
+         The second principle related to the territorializationof the sovereign state, that
+      is, to the determination of its frontiers within the context of a newly imposed
+      global order. In this context, the Jus publicum rapidly assumed the form of a distinction
+      between, on the one hand, those parts of the globe available for colonial
+         39. Arendt, Origins of Totalitarianism, 185–221.
+
+                                                                                  23
+
+      Public Culture            appropriation and, on the other, Europe itself (where the Jus publicum was to
+                              hold sway).40 This distinction, as we will see, is crucial in terms of assessing the
+                              ef cacy of the colony as a terror formation. Under Jus publicum, a legitimate war
+                              is, to a large extent, a war conducted by one state against another or, more precisely
+                              , a war between “civilized” states. The centrality of the state in the calculus
+                              of war derives from the fact that the state is the model of political unity, a principle
+                             of rational organization, the embodiment of the idea of the universal, and a
+                             moral sign.
+                                 In the same context, colonies are similar to the frontiers. They are inhabited by
+                             “savages.” The colonies are not organized in a state form and have not created a
+                             human world. Their armies do not form a distinct entity, and their wars are not
+                            wars between regular armies. They do not imply the mobilization of sovereign
+                              subjects (citizens) who respect each other as enemies. They do not establish a distinction
+                           between combatants and noncombatants, or again between an “enemy”
+                        and a “criminal.”41 It is thus impossible to conclude peace with them. In sum,
+                              colonies are zones in which war and disorder, internal and external  gures of the
+                              political, stand side by side or alternate with each other. As such, the colonies are
+                             the location par excellence where the controls and guarantees of judicial order
+                        can be suspended—the zone where the violence of the state of exception is
+                              deemed to operate in the service of “civilization.”
+                            That colonies might be ruled over in absolute lawlessness stems from the
+                            racial denial of any common bond between the conqueror and the native. In the
+                              eyes of the conqueror, savage life is just another form of animal life, a horrifying
+                             experience, something alien beyond imaginationor comprehension.In fact, according
+                             to Arendt, what makes the savages different from other human beings is less
+                              the color of their skin than the fear that they behave like a part of nature, that
+                              they treat nature as their undisputed master. Nature thus remains, in all its majesty,
+                            an overwhelming reality compared to which they appear to be phantoms, unreal
+                             and ghostlike. The savages are, as it were, “natural” human beings who lack the
+                              speci cally human character, the speci cally human reality, “so that when European
+                           men massacred them they somehow were not aware that they had committed
+                             murder.”42
+
+                                 40. Etienne Balibar, “Prolégomènes à la souveraineté: La frontière, l’Etat, le peuple,” Les temps
+                              modernes 610 (2000): 54–55.
+                                 41. Eugene Victor Walter, Terror and Resistance: A Study of Political Violence with Case Studies of
+                              Some Primitive African Communities (Oxford: Oxford University Press, 1969).
+                                 42. Arendt, Origins of Totalitarianism, 192.
+
+                            24
+
+         For all the above reasons, the sovereign right to kill is not subject to any rule             Necropolitics
+      in the colonies. In the colonies, the sovereign might kill at any time or in any
+      manner. Colonial warfare is not subject to legal and institutional rules. It is not a
+      legally codi ed activity. Instead, colonial terror constantly intertwines with colonially
+      generated fantasies of wilderness and death and  ctions to create the effect
+      of the real.43 Peace is not necessarily the natural outcome of a colonial war. In
+      fact, the distinctionbetween war and peace does not avail. Colonial wars are conceived
+      of as the expression of an absolute hostility that sets the conqueror against
+      an absolute enemy.44 All manifestations of war and hostility that had been marginalized
+      by a European legal imaginary  nd a place to reemerge in the colonies.
+     Here, the  ction of a distinction between “the ends of war” and the “means of
+      war” collapses; so does the  ction that war functions as a rule-governed contest,
+      as opposed to pure slaughter without risk or instrumental justi cation. It becomes
+      futile, therefore, to attempt to resolve one of the intractable paradoxes of war
+      well captured by Alexandre Kojève in his reinterpretation of Hegel’s Phenome-
+      nology of the Spirit: its simultaneous idealism and apparent inhumanity.45
+
+     Necropower and Late Modern Colonial Occupation
+      It might be thought that the ideas developed above relate to a distant past. In the
+      past, indeed, imperial wars did have the objective of destroying local powers,
+      installing troops, and instituting new models of military control over civil populations.
+      A group of local auxiliaries could assist in the management of conquered
+      territories annexed to the empire. Within the empire, the vanquished populations
+      were given a status that enshrined their despoilment. In these con gurations, violence
+      constituted the original form of the right, and exception provided the structure
+      of sovereignty. Each stage of imperialism also involved certain key technologies
+      (the gunboat, quinine, steamship lines, submarine telegraph cables, and
+      colonial railroads).46
+         Colonial occupation itself was a matter of seizing, delimiting, and asserting
+      control over a physical geographical area—of writing on the ground a new set of
+      social and spatial relations. The writing of new spatial relations (territorializa-
+         43. For a powerful rendition of this process, see Michael Taussig, Shamanism, Colonialism, and
+      the Wild Man: A Study in Terror and Healing (Chicago: University of Chicago Press, 1987).
+         44. On the “enemy,” see L’ennemi, special issue, Raisons politiques, no. 5 (2002).
+         45. Kojève, Introduction à la lecture de Hegel.
+         46. See Daniel R. Headrick, The Tools of Empire: Technology and European Imperialism in the
+      Nineteenth Century (New York: Oxford University Press, 1981).
+
+                                                                                  25
+
+      Public Culture            tion) was, ultimately, tantamountto the production of boundaries and hierarchies,
+                             zones and enclaves; the subversion of existing property arrangements; the classi
+                               cation of people according to different categories; resource extraction; and,
+                               nally, the manufacturing of a large reservoir of cultural imaginaries. These
+                              imaginaries gave meaning to the enactment of differential rights to differing categories
+                              of people for different purposes within the same space; in brief, the exercise
+                             of sovereignty. Space was therefore the raw material of sovereignty and the
+                             violence it carried with it. Sovereignty meant occupation, and occupation meant
+                             relegating the colonized into a third zone between subjecthood and objecthood.
+                                Such was the case of the apartheid regime in South Africa. Here, the township
+                       was the structural form and the homelands became the reserves (rural bases)
+                            whereby the  ow of migrant labor could be regulated and African urbanization
+                             held in check.47 As Belinda Bozzoli has shown, the township in particular was a
+                          place where “severe oppression and poverty were experienced on a racial and
+                              class basis.”48 A sociopolitical, cultural, and economic formation, the township
+                       was a peculiar spatial institution scienti cally planned for the purposes of control.49
+                             The functioning of the homelands and townships entailed severe restrictions
+                             on production for the market by blacks in white areas, the terminating of
+                              land ownership by blacks except in reserved areas, the illegalizationof black residence
+                              on white farms (except as servants in the employ of whites), the control of
+                              urban in ux, and later, the denial of citizenship to Africans.50
+                               Frantz Fanon describes the spatialization of colonial occupation in vivid
+                              terms. For him, colonial occupation entails  rst and foremost a division of space
+                              into compartments. It involves the setting of boundaries and internal frontiers
+                              epitomizedby barracks and police stations; it is regulated by the language of pure
+                             force, immediate presence, and frequent and direct action; and it is premised on
+                              the principle of reciprocal exclusivity.51 But more important, it is the very way in
+                             which necropower operates: “The town belonging to the colonized people . . . is
+                                 47. On the township, see G. G. Maasdorp and A. S. B. Humphreys, eds., From Shantytown to
+                              Township: An Economic Study of African Poverty and Rehousing in a South African City (Cape Town:
+                              Juta, 1975).
+                                 48. Belinda Bozzoli, “Why Were the 1980s ‘Millenarian’? Style, Repertoire, Space and Authority
+                              in South Africa’s Black Cities,” Journal of Historical Sociology 13 (2000): 79.
+                                 49. Bozzoli, “Why Were the 1980s ‘Millenarian’?”
+                                 50. See Herman Giliomee, ed., Up against the Fences: Poverty, Passes and Privileges in South
+                              Africa (Cape Town: David Philip, 1985); Francis Wilson, Migrant Labour in South Africa (Johannes-
+                              burg: Christian Institute of Southern Africa, 1972).
+                                 51. Frantz Fanon, The Wretched of the Earth, trans. C. Farrington (New York: Grove Weidenfeld,
+                              1991), 39.
+
+                            26
+
+      a place of ill fame, peopled by men of evil repute. They are born there, it matters             Necropolitics
+      little where or how; they die there, it matters not where, nor how. It is a world
+      without spaciousness; men live there on top of each other. The native town is a
+     hungry town, starved of bread, of meat, of shoes, of coal, of light. The native
+      town is a crouching village, a town on its knees.”52 In this case, sovereigntymeans
+      the capacity to de ne who matters and who does not, who is disposable and who
+      is not.
+       Late-modern colonial occupation differs in many ways from early-modern
+      occupation, particularly in its combining of the disciplinary, the biopolitical, and
+      the necropolitical. The most accomplished form of necropower is the contemporary
+      colonial occupation of Palestine.
+         Here, the colonial state derives its fundamental claim of sovereignty and legitimacy
+      from the authority of its own particular narrative of history and identity.
+      This narrative is itself underpinned by the idea that the state has a divine right to
+      exist; the narrative competes with another for the same sacred space. Because the
+      two narratives are incompatible and the two populations are inextricably intertwined
+      , any demarcation of the territory on the basis of pure identity is quasiimpossible.
+      Violence and sovereignty, in this case, claim a divine foundation:
+      peoplehood itself is forged by the worship of one deity, and national identity is
+      imagined as an identity against the Other, other deities.53 History, geography, cartography
+     , and archaeology are supposed to back these claims, thereby closely
+      binding identity and topography. As a consequence, colonial violence and occupation
+      are profoundly underwritten by the sacred terror of truth and exclusivity
+      (mass expulsions, resettlement of “stateless” people in refugee camps, settlement
+      of new colonies). Lying beneath the terror of the sacred is the constant excavation
+      of missing bones; the permanent remembrance of a torn body hewn in a
+      thousand pieces and never self-same; the limits, or better, the impossibility of
+      representing for oneself an “original crime,” an unspeakable death: the terror of
+      the Holocaust.54
+         To return to Fanon’s spatial reading of colonial occupation, the late-modern
+      colonial occupation in Gaza and the West Bank presents three major characteristics
+      in relation to the working of the speci c terror formation I have called
+      necropower. First is the dynamics of territorial fragmentation, the sealing off and
+         52. Fanon, Wretched of the Earth, 37–39.
+         53. See Regina M. Schwartz, The Curse of Cain: The Violent Legacy of Monotheism (Chicago:
+      University of Chicago Press, 1997).
+         54. See Lydia Flem, L’Art et la mémoire des camps: Représenter exterminer, ed. Jean-Luc Nancy
+      (Paris: Seuil, 2001)
+
+                                                                                  27
+
+[Link]
+http://www.openDemocracy.net
+      Public Culture            expansion of settlements. The objective of this process is twofold: to render any
+                      movement impossible and to implement separation along the model of the
+                              apartheid state. The occupied territories are therefore divided into a web of intricate
+                             internal borders and various isolated cells. According to Eyal Weizman, by
+                              departing from a planar division of a territory and embracing a principle of creation
+                             of three-dimensional boundaries across sovereign bulks, this dispersal and
+                             segmentation clearly rede nes the relationship between sovereignty and space.55
+                                 For Weizman, these actions constitute “the politics of verticality.” The resultant
+                              form of sovereignty might be called “vertical sovereignty.” Under a regime of
+                             vertical sovereignty, colonial occupation operates through schemes of over- and
+                             underpasses, a separation of the airspace from the ground. The ground itself is
+                              divided between its crust and the subterrain. Colonial occupation is also dictated
+                              by the very nature of the terrain and its topographicalvariations (hilltops and valleys
+                            , mountains and bodies of water). Thus, high ground offers strategic assets
+                              not found in the valleys (effectiveness of sight, self-protection, panoptic forti cation
+                            that generates gazes to many different ends). Says Weizman: “Settlements
+                              could be seen as urban optical devices for surveillance and the exercise of power.”
+                             Under conditions of late-modern colonial occupation,surveillance is both inwardand
+                           outward-oriented, the eye acting as weapon and vice versa. Instead of the
+                             conclusive division between two nations across a boundary line, “the organization
+                              of the West Bank’s particular terrain has created multiple separations, provisional
+                             boundaries, which relate to each other through surveillance and control,”
+                            according to Weizman. Under these circumstances, colonial occupation is not
+                              only akin to control, surveillance, and separation, it is also tantamount to seclusion.
+                              It is a splintering occupation, along the lines of the splintering urbanism
+                             characteristic of late modernity (suburban enclaves or gated communities).56
+                                 From an infrastructural point of view, a splintering form of colonial occupation
+                              is characterized by a network of fast bypass roads, bridges, and tunnels that
+                       weave over and under one another in an attempt at maintaining the Fanonian
+                            “principle of reciprocal exclusivity.” According to Weizman, “the bypass roads
+                           attempt to separate Israeli traf c networks from Palestinian ones, preferably
+                            without allowing them ever to cross. They therefore emphasize the overlapping
+                             of two separate geographies that inhabit the same landscape. At points where the
+                              networks do cross, a makeshift separation is created. Most often, small dust roads
+                                 55. See Eyal Weizman, “The Politics of Verticality,”  openDemocracy (Web publication at
+                              www.openDemocracy.net), 25 April 2002.
+                                 56. See Stephen Graham and Simon Marvin, Splintering Urbanism: Networked Infrastructures,
+                              Technological Mobility and the Urban Condition (London: Routledge, 2001).
+
+                            28
+
+[Link]
+http://www.openDemocracy.net
+      are dug out to allow Palestinians to cross under the fast, wide highways on which             Necropolitics
+      Israeli vans and military vehicles rush between settlements.”57
+         Under conditions of vertical sovereignty and splintering colonial occupation,
+     communities are separated across a y-axis. This leads to a proliferation of the
+      sites of violence. The battlegrounds are not located solely at the surface of the
+      earth. The underground as well as the airspace are transformed into con ict
+      zones. There is no continuity between the ground and the sky. Even the boundaries
+      in airspace are divided between lower and upper layers. Everywhere, the
+      symbolics of the top (who is on top) is reiterated. Occupation of the skies therefore
+      acquires a critical importance, since most of the policing is done from the air.
+      Various other technologiesare mobilized to this effect: sensors aboard unmanned
+      air vehicles (UAVs), aerial reconnaissance jets, early warning Hawkeye planes,
+      assault helicopters, an Earth-observation satellite, techniques of “hologrammatization.”
+      Killing becomes precisely targeted.
+         Such precision is combined with the tactics of medieval siege warfare adapted
+      to the networked sprawl of urban refugee camps. An orchestrated and systematic
+      sabotage of the enemy’s societal and urban infrastructure network complements
+      the appropriation of land, water, and airspace resources. Critical to these techniques
+      of disablingthe enemy is bulldozing: demolishing houses and cities; uprooting
+      olive trees; riddling water tanks with bullets; bombing and jamming electronic
+      communications; digging up roads; destroying electricity transformers;
+      tearing up airport runways; disabling television and radio transmitters; smashing
+      computers; ransacking cultural and politico-bureaucratic symbols of the proto-
+      Palestinian state; looting medical equipment. In other words, infrastructuralwar-
+      fare.58 While the Apache helicopter gunship is used to police the air and to kill
+      from overhead, the armored bulldozer (the Caterpillar D-9) is used on the ground
+      as a weapon of war and intimidation. In contrast to early-modern colonial occupation
+      , these two weapons establish the superiority of high-tech tools of latemodern
+      terror.59
+         As the Palestinian case illustrates, late-modern colonial occupation is a concatenation
+      of multiple powers: disciplinary, biopolitical, and necropolitical. The
+
+         57. Weizman, “Politics of Verticality.”
+         58. See Stephen Graham, “ ‘Clean Territory’: Urbicide in the West Bank,” openDemocracy (Web
+      publication at www.openDemocracy.net), 7 August 2002.
+         59. Compare with the panoply of new bombs the United States deployed during the Gulf War and
+      the war in Kosovo, most aimed at raining down graphite crystals to disable comprehensively electrical
+      power and distribution stations. Michael Ignatieff, Virtual War (New York: Metropolitan Books,
+      2000).
+
+                                                                                  29
+
+      Public Culture            combination of the three allocates to the colonial power an absolute domination
+                              over the inhabitants of the occupied territory. The state of siege is itself a military
+                              institution. It allows a modality of killing that does not distinguish between the
+                             external and the internal enemy. Entire populations are the target of the sovereign.
+                             The besieged villages and towns are sealed off and cut off from the world.
+                             Daily life is militarized. Freedom is given to local military commanders to use
+                             their discretion as to when and whom to shoot. Movement between the territorial
+                              cells requires formal permits. Local civil institutionsare systematicallydestroyed.
+                              The besieged populationis deprived of their means of income. Invisible killing is
+                             added to outright executions.
+
+                         War Machines and Heteronomy
+                             After having examined the workings of necropower under the conditions of latemodern
+                             colonial occupation, I would like to turn now to contemporary wars. Contemporary
+                           wars belong to a new moment and can hardly be understood through
+                              earlier theories of “contractual violence” or typologies of “just” and “unjust”
+                         wars or even Carl von Clausewitz’s instrumentalism.60 According to Zygmunt
+                             Bauman, wars of the globalization era do not include the conquest, acquisition,
+                              and takeover of a territory among their objectives. Ideally, they are hit-and-run
+                              affairs.
+                         The growing gap between high-tech and low-tech means of war has never
+                             been as evident as in the Gulf War and the Kosovo campaign. In both cases, the
+                             doctrine of “overwhelming or decisive force” was implemented to its full effect
+                              thanks to a military-technological revolution that has multiplied the capacity for
+                            destruction in unprecedented ways.61 Air war as it relates to altitude, ordnance,
+                              visibility, and intelligence is here a case in point. During the Gulf War, the
+                         combined use of smart bombs and bombs coated with depleted uranium (DU),
+                              high-tech stand-off weapons, electronic sensors, laser-guided missiles, cluster and
+                             asphyxiation bombs, stealth capabilities, unmanned aerial vehicles, and cyberintelligence
+                              quickly crippled the enemy’s capabilities.
+                                In Kosovo, the “degrading” of Serbian capabilities took the form of an infrastructural
+                             war that targeted and destroyed bridges, railroads, highways, commu-
+
+                                 60. See Michael Walzer, Just and Unjust Wars: A Moral Argument with Historical Illustrations
+                              (New York: Basic Books, 1977).
+                                 61. Benjamin Ederington and Michael J. Mazarr, eds., Turning Point: The Gulf War and U.S. Mil-
+                              itary Strategy (Boulder, Colo.: Westview, 1994).
+
+                            30
+
+[Link]
+http://www.ingentaselect.com/rpsv/cgi-bin/linker?ext=a&reqidx=/0899-2363^282000^2912L.259[aid=4235464]
+      nications networks, oil storage depots, heating plants, power stations, and water             Necropolitics
+      treatment facilities. As can be surmised, the execution of such a military strategy,
+     especially when combined with the imposition of sanctions, results in shutting
+     down the enemy’s life-support system. The enduring damage to civilian life is
+      particularly telling. For example, the destruction of the Pancevo petrochemical
+      complex in the outskirts of Belgrade during the Kosovo campaign “left the vicinity
+      so toxic with vinyl chloride, ammonia, mercury, naphtha and dioxin that pregnant
+      women were directed to seek abortions, and all local women were advised to
+      avoid pregnancy for two years.”62
+         Wars of the globalizationera therefore aim to force the enemy into submission
+      regardless of the immediate consequences,side effects, and “collateral damage” of
+      the military actions. In this sense, contemporary wars are more reminiscent of the
+      warfare strategy of the nomads than of the sedentary nations or the “conquer-andannex”
+      territorial wars of modernity. In Bauman’s words: “They rest their superiority
+      over the settled population on the speed of their own movement; their own
+      ability to descend from nowhere without notice and vanish again without warning,
+      their ability to travel light and not to bother with the kind of belongings which con-
+       ne the mobility and the maneuvering potential of the sedentary people.”63
+         This new moment is one of global mobility. An important feature of the age of
+      global mobility is that military operations and the exercise of the right to kill are
+      no longer the sole monopoly of states, and the “regular army” is no longer the
+     unique modality of carrying out these functions. The claim to ultimate or  nal
+      authority in a particular political space is not easily made. Instead, a patchwork of
+      overlapping and incomplete rights to rule emerges, inextricably superimposed and
+      tangled, in which different de facto juridical instances are geographicallyinterwoven
+      and plural allegiances, asymmetrical suzerainties, and enclaves abound.64 In
+         62. Thomas W. Smith, “The New Law of War: Legitimizing Hi-Tech and Infrastructural Violence
+      ,” International Studies Quarterly 46 (2002): 367. On Iraq, see G. L. Simons, The Scourging of
+      Iraq: Sanctions, Law and Natural Justice, 2d ed. (New York: St. Martin’s, 1998); see also A. Sheha-
+      baldin and W. M. Laughlin Jr., “Economic Sanctions against Iraq: Human and Economic Costs,”
+      International Journal of Human Rights 3, no. 4 (2000): 1–18.
+         63. Zygmunt Bauman, “Wars of the Globalization Era,” European Journal of Social Theory 4, no.
+      1 (2001): 15. “Remote as they are from their ‘targets,’ scurrying over those they hit too fast to witness
+      the devastation they cause and the blood they spill, the pilots-turned-computer-operatorshardly ever
+      have a chance of looking their victims in the face and to survey the human misery they have sowed,”
+      adds Bauman. “Military professionals of our time see no corpses and no wounds. They may sleep
+      well; no pangs of conscience will keep them awake” (27). See also “Penser la guerre aujourd’hui,”
+      Cahiers de la Villa Gillet no. 16 (2002): 75–152.
+         64. Achille Mbembe, “At the Edge of the World: Boundaries, Territoriality, and Sovereignty in
+      Africa,” Public Culture 12 (2000): 259–84.
+
+                                                                                  31
+
+      Public Culture            this heteronymous organizationof territorial rights and claims, it makes little sense
+                              to insist on distinctions between “internal” and “external” political realms, separated
+                             by clearly demarcated boundaries.
+                                 Let’s take Africa as an example. Here, the political economy of statehood dramatically
+                             changed over the last quarter of the twentieth century. Many African
+                             states can no longer claim a monopoly on violence and on the means of coercion
+                             within their territory. Nor can they claim a monopoly on territorial boundaries.
+                            Coercion itself has become a market commodity. Military manpower is bought
+                        and sold on a market in which the identity of suppliers and purchasers means
+                              almost nothing. Urban militias, private armies, armies of regional lords, private
+                              security  rms, and state armies all claim the right to exercise violence or to kill.
+                           Neighboring states or rebel movements lease armies to poor states. Nonstate
+                              deployers of violence supply two critical coercive resources: labor and minerals.
+                              Increasingly, the vast majority of armies are composed of citizen soldiers, child
+                              soldiers, mercenaries, and privateers.65
+                               Alongside armies have therefore emerged what, following Deleuze and Guattari
+                             , we could refer to as war machines.66 War machines are made up of segments
+                             of armed men that split up or merge with one another depending on the tasks to
+                            be carried out and the circumstances. Polymorphous and diffuse organizations,
+                             war machines are characterized by their capacity for metamorphosis. Their relation
+                            to space is mobile. Sometimes, they enjoy complex links with state forms
+                          (from autonomy to incorporation). The state may, of its own doing, transform
+                             itself into a war machine. It may moreover appropriate to itself an existing war
+                            machine or help to create one. War machines function by borrowing from regular
+                              armies while incorporating new elements well adapted to the principle of segmentation
+                              and deterritorialization. Regular armies, in turn, may readily appropriate
+                             some of the characteristics of war machines.
+                                 A war machine combines a plurality of functions. It has the features of a political
+                              organization and a mercantile company. It operates through capture and
+                              depredations and can even coin its own money. In order to fuel the extraction and
+
+                                 65. In international law, “privateers” are de ned as “vessels belonging to private owners, and sailing
+                              under a commission of war empowering the person to whom it is granted to carry on all forms of
+                              hostility which are permissible at sea by the usages of war.” I use the term here to mean armed formations
+                              acting independently of any politically organized society, in the pursuit of private interests,
+                              whether under the mask of the state or not. See Janice Thomson, Mercenaries, Pirates, and Sovereigns
+                              (Princeton, N.J.: Princeton University Press, 1997).
+                                 66. Gilles Deleuze and Felix Guattari, Capitalisme et schizophrénie (Paris: Editions de minuit,
+                              1980), 434–527.
+
+                            32
+
+      export of natural resources located in the territory they control, war machines            Necropolitics
+      forge direct connections with transnational networks. War machines emerged in
+      Africa during the last quarter of the twentieth century in direct relation to the erosion
+      of the postcolonial state’s capacity to build the economic underpinnings of
+      political authority and order. This capacity involves raising revenue and commanding
+      and regulating access to natural resources within a well-de ned territory.
+      In the mid-1970s, as the state’s ability to maintain this capacity began to
+      erode, there emerged a clear-cut link between monetary instability and spatial
+      fragmentation. In the 1980s, the brutal experience of money suddenly losing its
+     value became more commonplace, with various countries undergoing cycles of
+      hyperin ation (which included such stunts as the sudden replacement of a currency
+      ). During the last decades of the twentieth century, monetary circulation has
+      in uenced state and society in at least two different ways.
+         First, we have seen a general drying-up of liquidities and their gradual concentration
+      along certain channels, access to which has been subject to increasingly
+      draconian conditions. As a result, the number of individuals endowed with
+     the material means to control dependents through the creation of debts has
+      abruptly decreased. Historically, capturing and  xing dependents through the
+     mechanism of debt has always been a central aspect of both the production of
+      people and the constitution of the political bond.67 Such bonds were crucial in
+      determining the value of persons and gauging their value and utility. When their
+      value and utility were not proven, they could be disposed of as slaves, pawns, or
+      clients.
+        Second, the controlled in ow and the  xing of movements of money around
+      zones in which speci c resources are extracted has made possible the formation
+      of enclave economies and has shifted the old calculus between people and things.
+      The concentrationof activities connected with the extraction of valuable resources
+      around these enclaves has, in return, turned the enclaves into privileged spaces of
+     war and death. War itself is fed by increased sales of the products extracted.68
+     New linkages have therefore emerged between war making, war machines, and
+      resource extraction.69 War machines are implicated in the constitution of highly
+
+         67. Joseph C. Miller, Way of Death: Merchant Capitalism and the Angolan Slave Trade, 1730–
+      1830 (Madison: University of Wisconsin Press, 1988), especially chaps. 2 and 4.
+         68. See Jakkie Cilliers and Christian Dietrich, eds., Angola’s War Economy: The Role of Oil and
+      Diamonds (Pretoria: Institute for Security Studies, 2000).
+         69. See, for example, “Rapport du Groupe d’experts sur l’exploitation illégale des ressources
+      naturelles et autres richesses de la République démocratique du Congo,” United Nations Report No.
+      2/2001/357, submitted by the Secretary-General to the Security Council, 12 April 2001. See also
+
+                                                                                  33
+
+[Link]
+http://www.ingentaselect.com/rpsv/cgi-bin/linker?ext=a&reqidx=/1020-4067^282002^2921:1L.260[aid=4235465]
+      Public Culture            transnational local or regional economies. In most places, the collapse of formal
+                              political institutions under the strain of violence tends to lead to the formation of
+                              militia economies. War machines (in this case militias or rebel movements) rapidly
+                             become highly organized mechanisms of predation, taxing the territories and the
+                            population they occupy and drawing on a range of transnational networks and
+                              diasporas that provide both material and  nancial support.
+                                Correlated to the new geography of resource extraction is the emergence of an
+                          unprecedented form of governmentality that consists in the management of the
+                             multitudes. The extraction and looting of natural resources by war machines goes
+                       hand in hand with brutal attempts to immobilize and spatially  x whole categories
+                              of people or, paradoxically, to unleash them, to force them to scatter over
+                              broad areas no longer containedby the boundaries of a territorial state. As a political
+                              category, populations are then disaggregated into rebels, child soldiers, victims
+                              or refugees, or civilians incapacitated by mutilation or simply massacred on
+                              the model of ancient sacri ces, while the “survivors,” after a horri c exodus, are
+                             con ned in camps and zones of exception.70
+                               This form of governmentality is different from the colonial commandement.71
+                             The techniques of policing and discipline and the choice between obedience and
+                             simulation that characterized the colonial and postcolonial potentate are gradually
+                             being replaced by an alternative that is more tragic because more extreme.
+                             Technologies of destruction have become more tactile, more anatomical and sensorial
+                              , in a context in which the choice is between life and death.72 If power still
+                             depends on tight control over bodies (or on concentrating them in camps), the
+                             new technologies of destruction are less concerned with inscribing bodies within
+                             disciplinary apparatuses as inscribing them, when the time comes, within the
+                            order of the maximal economy now represented by the “massacre.” In turn, the
+                             generalization of insecurity has deepened the societal distinction between those
+                           who bear weapons and those who do not ( loi de repartition des armes). Increas-
+
+                              Richard Snyder, “Does Lootable Wealth Breed Disorder? States, Regimes, and the Political Economy
+                              of Extraction” (paper).
+                                 70. See Loren B. Landau, “The Humanitarian Hangover: Transnationalization of Governmental
+                              Practice in Tanzania’s Refugee-Populated Areas,” Refugee Survey Quarterly 21, no. 1 (2002): 260–99,
+                              especially 281–87.
+                                 71. On the commandement, see Achille Mbembe, On the Postcolony (Berkeley: University of California
+                              Press, 2001), chaps. 1–3.
+                                 72. See Leisel Talley, Paul B. Spiegel, and Mona Girgis, “An Investigation of Increasing Mortality
+                              among Congolese Refugees in Lugufu Camp, Tanzania, May-June 1999,” Journal of Refugee Stud-
+                              ies 14, no. 4 (2001): 412–27.
+
+                            34
+
+      ingly, war is no longer waged between armies of two sovereign states. It is waged             Necropolitics
+      by armed groups acting behind the mask of the state against armed groups that
+      have no state but control very distinct territories; both sides having as their main
+      targets civilian populations that are unarmed or organized into militias. In cases
+      where armed dissidents have not completely taken over state power, they have
+      provoked territorial partitions and succeeded in controlling entire regions that
+     they administer on the model of  efdoms, especially where there are mineral
+      deposits.73
+         The ways of killing do not themselves vary much. In the case of massacres in
+      particular, lifeless bodies are quickly reduced to the status of simple skeletons.
+      Their morphology henceforth inscribes them in the register of undifferentiated
+      generality: simple relics of an unburied pain, empty, meaningless corporealities,
+     strange deposits plunged into cruel stupor. In the case of the Rwandan genocide
+      —in which a number of skeletons were at least preserved in a visible state,
+      if not exhumed—what is striking is the tension between the petri cation of the
+      bones and their strange coolness on one hand, and on the other, their stubborn
+      will to mean, to signify something.
+         In these impassive bits of bone, there seems to be no ataraxia: nothing but the
+      illusory rejection of a death that has already occurred. In other cases, in which
+      physical amputation replaces immediate death, cutting off limbs opens the way to
+     the deployment of techniques of incision, ablation, and excision that also have
+      bones as their target. The traces of this demiurgic surgery persist for a long time,
+      in the form of human shapes that are alive, to be sure, but whose bodily integrity
+      has been replaced by pieces, fragments, folds, even immense wounds that are dif-
+       cult to close. Their function is to keep before the eyes of the victim—and of the
+      people around him or her—the morbid spectacle of severing.
+
+     Of Motion and Metal
+     Let us return to the example of Palestine where two apparently irreconcilable
+      logics are confronting each other: the logic of martyrdom and the logic of sur-
+      vival. In examining these two logics, I would like to re ect on the twin issues of
+      death and terror on the one hand and terror and freedom on the other.
+         In the confrontation between these two logics, terror is not on one side and
+
+         73. See Tony Hodges, Angola: From Afro-Stalinism to Petro-Diamond Capitalism (Oxford: James
+      Currey, 2001), chap. 7; Stephen Ellis, The Mask of Anarchy: The Destruction of Liberia and the Reli-
+      gious Dimension of an African Civil War (London: Hurst & Company, 1999).
+
+                                                                                  35
+
+      Public Culture            death on the other. Terror and death are at the heart of each. As Elias Canetti
+                              reminds us, the survivor is the one who, having stood in the path of death, knowing
+                              of many deaths and standing in the midst of the fallen, is still alive. Or, more
+                             precisely, the survivor is the one who has taken on a whole pack of enemies and
+                              managed not only to escape alive, but to kill his or her attackers. This is why, to a
+                              large extent, the lowest form of survival is killing. Canetti points out that in the
+                              logic of survival, “each man is the enemy of every other.” Even more radically, in
+                              the logic of survival one’s horror at the sight of death turns into satisfaction that
+                              it is someone else who is dead. It is the death of the other, his or her physical presence
+                           as a corpse, that makes the survivor feel unique. And each enemy killed
+                             makes the survivor feel more secure.74
+                                 The logic of martyrdom proceeds along different lines. It is epitomized by the
+                              gure of the “suicide bomber,” which itself raises a number of questions. What
+                              intrinsic difference is there between killing with a missile helicopter or a tank and
+                              killing with one’s own body? Does the distinctionbetween the arms used to in ict
+                          death prevent the establishment of a system of general exchange between the
+                            manner of killing and the manner of dying?
+                         The “suicide bomber” wears no ordinary soldier’s uniform and displays no
+                              weapon. The candidate for martyrdom chases his or her targets; the enemy is a prey
+                              for whom a trap is set. Signi cant in this respect is the location of the ambush
+                              laid: the bus stop, the café, the discotheque, the marketplace, the checkpoint, the
+                             road—in sum, the spaces of everyday life.
+                               The trapping of the body is added to the ambush location. The candidate for
+                        martyrdom transforms his or her body into a mask that hides the soon-to-bedetonated
+                          weapon. Unlike the tank or the missile that is clearly visible, the
+                              weapon carried in the shape of the body is invisible. Thus concealed, it forms part
+                              of the body. It is so intimately part of the body that at the time of detonation it
+                              annihilates the body of its bearer, who carries with it the bodies of others when it
+                             does not reduce them to pieces. The body does not simply conceal a weapon. The
+                             body is transformed into a weapon, not in a metaphorical sense but in the truly
+                              ballistic sense.
+                               In this instance, my death goes hand in hand with the death of the Other.
+                            Homicide and suicide are accomplished in the same act. And to a large extent,
+                              resistance and self-destruction are synonymous. To deal out death is therefore to
+                              reduce the other and oneself to the status of pieces of inert  esh, scattered every-
+                                 74. See Elias Canetti, Crowds and Power, trans. C. Stewart (New York: Farrar Straus Giroux,
+                              1984), 227–80.
+
+                            36
+
+      where, and assembled with dif culty before the burial. In this case, war is the war             Necropolitics
+      of body on body ( guerre au corps-à-corps). To kill, one has to come as close as
+      possible to the body of the enemy. To detonate the bomb necessitates resolving
+      the question of distance, through the work of proximity and concealment.
+      How are we to interpret this manner of spilling blood in which death is not
+      simply that which is my own, but always goes hand in hand with the death of the
+      other?75 How does it differ from death in icted by a tank or a missile, in a context
+      in which the cost of my survival is calculated in terms of my capacity and readiness
+      to kill someone else? In the logic of “martyrdom,” the will to die is fused
+      with the willingness to take the enemy with you, that is, with closing the door on
+     the possibility of life for everyone. This logic seems contrary to another one,
+      which consists in wishing to impose death on others while preserving one’s own
+      life. Canetti describes this moment of survival as a moment of power. In such a
+      case, triumph develops precisely from the possibility of being there when
+      the others (in this case the enemy) are no longer there. Such is the logic of heroism
+      as classically understood: to execute others while holding one’s own death at
+      a distance.
+         In the logic of martyrdom, a new semiosis of killing emerges. It is not necessarily
+      based on a relationship between form and matter. As I have already indicated
+     , the body here becomes the very uniform of the martyr. But the body as
+      such is not only an object to protect against danger and death. The body in itself
+     has neither power nor value. The power and value of the body result from a
+      process of abstraction based on the desire for eternity. In that sense, the martyr,
+     having established a moment of supremacy in which the subject overcomes his
+    own mortality, can be seen as laboring under the sign of the future. In other
+      words, in death the future is collapsed into the present.
+         In its desire for eternity, the besieged body passes through two stages. First, it
+      is transformed into a mere thing, malleable matter. Second, the manner in which
+      it is put to death— suicide— affords it its ultimate signi cation. The matter of the
+      body, or again the matter which is the body, is invested with properties that cannot
+      be deduced from its character as a thing, but from a transcendentalnomos outside
+      it. The besieged body becomes a piece of metal whose function is, through
+      sacri ce, to bring eternal life into being. The body duplicates itself and, in death,
+      literally and metaphorically escapes the state of siege and occupation.
+         Let me explore, in conclusion, the relation between terror, freedom, and sacri
+       ce. Martin Heidegger argues that the human’s “being toward death” is the deci-
+         75. Martin Heidegger, Etre et temps (Paris: Gallimard, 1986), 289–322.
+
+                                                                                  37
+
+      Public Culture            sive condition of all true human freedom.76 In other words, one is free to live
+                             one’s own life only because one is free to die one’s own death. Whereas Heidegger
+                              grants an existential status to being-toward-death and considers it an event of
+                              freedom, Bataille suggests that “sacri ce in reality reveals nothing.” It is not simply
+                           the absolute manifestation of negativity. It is also a comedy. For Bataille,
+                              death reveals the human subject’s animal side, which he refers to moreover as the
+                              subject’s “natural being.” “For man to reveal himself in the end, he has to die, but
+                        he will have to do so while alive—by looking at himself ceasing to exist,” he
+                             adds. In other words, the human subject has to be fully alive at the very moment
+                              of dying, to be aware of his or her death, to live with the impression of actually
+                              dying. Death itself must become awareness of the self at the very time that it does
+                              away with the conscious being. “In a sense, this is what happens (what at least is
+                              on the point of taking place, or what takes place in an elusive, fugitive manner),
+                              by means of a subterfuge in the sacri ce. In the sacri ce, the sacri ced identi es
+                             himself with the animal on the point of death. Thus he dies seeing himself die,
+                             and even, in some sense, through his own will, at one with the weapon of sacri-
+                               ce. But this is play!” And for Bataille, play is more or less the means by which
+                              the human subject “voluntarily tricks himself.”77
+                    How does the notion of play and trickery relate to the “suicide bomber”?
+                              There is no doubt that in the case of the suicide bomber the sacri ce consists of
+                              the spectacular putting to death of the self, of becoming his or her own victim
+                              (self-sacri ce). The self-sacri ced proceeds to take power over his or her death
+                             and to approach it head-on. This power may be derived from the belief that the
+                              destruction of one’s own body does not affect the continuityof the being. The idea
+                              is that the being exists outside us. The self-sacri ce consists, here, in the removal
+                            of a twofold prohibition: that of self-immolation (suicide) and that of murder.
+                              Unlike primitive sacri ces, however, there is no animal to serve as a substitute
+                              victim. Death here achieves the character of a transgression. But unlike cruci xion
+                              , it has no expiatory dimension. It is not related to the Hegelian paradigms of
+                              prestige or recognition. Indeed, a dead person cannot recognize his or her killer,
+                              who is also dead. Does this imply that death occurs here as pure annihilation and
+                            nothingness, excess and scandal?
+                                Whether read from the perspective of slavery or of colonial occupation, death
+                         and freedom are irrevocably interwoven. As we have seen, terror is a de ning
+                             feature of both slave and late-modern colonial regimes. Both regimes are also
+                                 76. Heidegger, Etre et temps.
+                                 77. Bataille, Oeuvres complètes, 336.
+
+                            38
+
+      speci c instances and experiences of unfreedom. To live under late modern occu-             Necropolitics
+      pation is to experience a permanent condition of “being in pain”: forti ed structures
+      , military posts, and roadblocks everywhere; buildingsthat bring back painful
+     memories of humiliation, interrogations, and beatings; curfews that imprison
+     hundreds of thousands in their cramped homes every night from dusk to daybreak
+      ; soldiers patrolling the unlit streets, frightened by their own shadows; children
+      blinded by rubber bullets; parents shamed and beaten in front of their families
+      ; soldiers urinating on fences, shooting at the rooftop water tanks just for fun,
+      chanting loud offensive slogans, pounding on fragile tin doors to frighten the children
+      , con scating papers, or dumping garbage in the middle of a residential neighborhood
+      ;border guards kickingover a vegetable stand or closing borders at whim;
+      bones broken; shootings and fatalities—a certain kind of madness.78
+        In such circumstances, the discipline of life and the necessities of hardship
+      (trial by death) are marked by excess. What connects terror, death, and freedom
+      is an ecstatic notion of temporality and politics. The future, here, can be authentically
+      anticipated, but not in the present. The present itself is but a moment of
+      vision—vision of the freedom not yet come. Death in the present is the mediator
+      of redemption. Far from being an encounter with a limit, boundary,or barrier, it is
+      experienced as “a release from terror and bondage.”79 As Gilroy notes, this preference
+      for death over continued servitude is a commentary on the nature of freedom
+      itself (or the lack thereof). If this lack is the very nature of what it means for
+     the slave or the colonized to exist, the same lack is also precisely the way in
+      which he or she takes account of his or her mortality. Referring to the practice of
+      individual or mass suicide by slaves cornered by the slave catchers, Gilroy suggests
+      that death, in this case, can be represented as agency. For death is precisely
+      that from and over which I have power. But it is also that space where freedom
+      and negation operate.
+
+      Conclusion
+      In this essay I have argued that contemporary forms of subjugation of life to the
+      power of death (necropolitics) profoundly recon gure the relations among resistance
+      , sacri ce, and terror. I have demonstrated that the notion of biopower is
+      insuf cient to account for contemporary forms of subjugation of life to the power
+
+         78. For what precedes, see Amira Hass, Drinking the Sea at Gaza: Days and Nights in a Land
+      under Siege (New York: Henry Holt, 1996).
+         79. Gilroy, Black Atlantic, 63.
+
+                                                                                  39
+
+      Public Culture            of death. Moreover I have put forward the notion of necropolitics and necropower
+                        to account for the various ways in which, in our contemporary world,
+                             weapons are deployed in the interest of maximum destruction of persons and the
+                             creation of death-worlds, new and unique forms of social existence in which vast
+                              populations are subjected to conditions of life conferring upon them the status of
+                             living dead. The essay has also outlined some of the repressed topographies of
+                              cruelty (the plantation and the colony in particular) and has suggested that under
+                              conditions of necropower, the lines between resistance and suicide, sacri ce and
+                           redemption, martyrdom and freedom are blurred.
+                              Achille Mbembe is a senior researcher at the Institute of Social and Economic
+                             Research at the University of the Witwatersrand. Recent publications include On
+                             the Postcolony (2001) and “African Modes of Self-Writing,” Public Culture (win-
+                              ter 2002).
+
+
+
+
+
+
+
+
+
+
+
+                            40
+
+
