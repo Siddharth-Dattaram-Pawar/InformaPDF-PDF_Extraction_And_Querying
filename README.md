@@ -44,9 +44,18 @@ WE ATTEST THAT WE HAVEN'T USED ANY OTHER STUDENTS' WORK IN OUR ASSIGNMENT AND AB
 - **SQL Database**: For storing user login credentials securely.
 - **Docker Compose**: For containerizing and deploying the applications to a public cloud platform.
 - **GitHub**: For version control and collaboration.
+- **OpenAI API:** Enable intelligent querying and response generation based on user query related to the extracted content
 
 ## Setup and Installation
 
+### **GCP Setup**:
+    
+    *   Make sure your GCP credentials are set correctly to access the GCS bucket containing the task files as well as the SQL Database containing user Data.
+        
+### **OpenAI API Key**:
+    
+    *   Update the openai.api\_key in the script with your OpenAI API key.
+    
 ### Dependencies
 
 This project uses `poetry` for dependency management. Here’s how to set up the project:
