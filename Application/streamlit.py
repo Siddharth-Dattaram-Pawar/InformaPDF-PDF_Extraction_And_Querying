@@ -19,16 +19,23 @@ if not API_URL:
 st.markdown(
     """
     <style>
-    /* Set background color and padding for the entire app */
-    .main {
-        background-color: #F5F5F5; /* Light Gray */
-        padding: 20px 50px 20px 50px; /* Top, Right, Bottom, Left padding */
+    /* Apply the background image to the main app container */
+    .stApp {
+        background-image: url("https://img.freepik.com/free-vector/ombre-blue-line-patterned-background-vector_53876-173744.jpg");
+        background-size: cover; /* Make the background image cover the entire viewport */
+        background-repeat: no-repeat; /* Do not repeat the image */
+        background-attachment: fixed; /* Fix the image so it doesn't move on scroll */
+        background-position: center; /* Center the image */
+        padding: 0; /* Remove padding */
     }
 
-    /* Override background color and padding for all containers */
+    /* Remove default Streamlit padding and margins */
     .block-container {
-        background-color: #F5F5F5;
-        padding: 30px 40px 30px 40px; /* Top, Right, Bottom, Left padding */
+        padding: 20px; /* Optional padding around the content */
+        margin: 100px 0px; /* Top margin to move content down */
+        background: rgba(255, 255, 255, 0.8); /* Light background to separate content from the image */
+        border-radius: 15px; /* Rounded corners for a neat look */
+        box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1); /* Light shadow for better contrast */
     }
 
     /* Set font family to Clarendon for all text elements */
