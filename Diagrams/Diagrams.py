@@ -10,9 +10,10 @@ from diagrams.onprem.workflow import Airflow
 huggingface_icon = "hf.png"  # Path to the Hugging Face logo
 pypdf_icon = "pypdf.png"
 pdfco_icon = "pdfco.png"
+fastapi_icon = "fast_api.png"
 
 # Load your custom Hugging Face icon
-with Diagram("Updated System Architecture", show=True):
+with Diagram("System Architecture", show=True):
 
     # User interaction
     user = User("User")
@@ -33,7 +34,8 @@ with Diagram("Updated System Architecture", show=True):
         with Cluster("FastAPI"):
             auth = User("Authentication (JWT)")
             endpoints = User("Protected Endpoints")
-            business_logic = User("Business Logic")
+            business_logic = Custom("Fetched Extracts",fastapi_icon)
+
 
     # Airflow for pipeline
     with Cluster("DAG"):
