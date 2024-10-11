@@ -1,0 +1,22 @@
+                          ZBC 00                                                                              ZBC 03
+                        Show                         Episode                           Block           Show                   Episode                      Block
+                      5:00 Dinosaur with a Jetpack             S1E03: Fossil Fuel Frenzy                ZBC Kids         Robo-Owls                 S1E5: 180-Degree Manuever?!       Morning Animation
+                      6:00 Dinosaur with a Jetpack             S1E04: Dinosaur Stops an Asteroid         ZBC Kids         Robo-Owls                 S1E6: Enter, Barn Owl!             Morning Animation
+                      7:00 Keeping Up With The Stuffed Animals   S9E20: Giraffe Has a Baby                ZBC Kids         Nutasha The Magical Squirrel   S4E10: The Impending Winter       Morning Animation
+                      8:00 Keeping Up With The Stuffed Animals   S9E21: Tiger Claims Worker's Comp        ZBC Kids         Nutasha The Magical Squirrel   S4E11: Hibernation Commences     Morning Animation
+                      9:00 Hyperman: Defender of Everything     S3E04: Hyperman vs. Lizard Lamp                          Time Parking                S1E18: Cleopatra's Curbside Pickup
+                     10:00 Hyperman: Defender of Everything     S3E05: Hyperman vs. The Killinator                         Time Parking                S1E19: Expired Meters in Mongolia
+                      11:00 Hyperman: Defender of Everything     S3E06: Hyperman vs. Laser Shrimp                         Time Parking                S1E20: Outside the Lines Pt. 1
+                     12:00 Hyperman: Defender of Everything     S3E07: Hyperman vs. Jaywalking                           Time Parking                S1E21: Outside the Lines Pt. 2
+                      1:00 Judge Cena                       S12E104: The People v. Their Sanity                        Radioactive High School       S2E4: Prom and Plutonium
+                      2:00 Judge Cena                       S12E105: Judge Cena v. The ZBC Network                   Radioactive High School       S2E5: Thanksgiving and Thorium
+                      3:00 Cooking in Space                  S4E09: Linguini Alfredo                                   Radioactive High School       S2E6: University and Uranium
+                      4:00 Cooking in Space                  S4E10: Cobb Salad                                      Radioactive High School       S2E7: Exams and Einsteinium
+                      5:00 The Bradfords                     S8E10: A Very Farmhouse-Chic Christmas                    Bad Phone                 S3E1: The Wi-fi That Turned Evil
+                      6:00 The Bradfords                     S8E11: Some Other Character Has a Baby                    Bad Phone                 S3E2: AirDrop of Doom
+                      7:00 Jeopardy                         S125E50: Tournament of Champions        Game Show Night  Ballpoint Pen: The Movie                                     Movie Night
+                      7:30 Wheel of Fortune                   S120E50: Puppy Week                   Game Show Night
+                      8:00 Let's Exchange Goods and Services    S2E2: Economic Recession               Game Show Night
+                      9:00 Speed Buzzer                     S1E5: The Fastest Buzzer Yet?            Game Show Night  You're Still Up?              S1E1: Go to Bed
+                     10:00 Shark Nanny                      S1E1: We're Gonna Need a Bigger Boat     Game Show Night  Damp Planet                S1E3: Subterranean Dampness
+                      11:00 The Price Is Left                   S3E4: Nothing Left to Show               Game Show Night  Nature's Tastiest             S1E1: Evolved to Be Eaten
