@@ -6,11 +6,21 @@ This project, titled "InformaPDF," is designed to streamline the process of text
 
 Codelab [link](https://codelabs-preview.appspot.com/?file_id=1PtPbQA_wmCll14lt--FDn1jZeQYlErJ-qFyUNH8iI1g#0)
 
+Youtube Video [link](https://youtu.be/X00lL-V44V0)
+
+Streamlit Deployment [link](https://streamlit-service-61122194920.us-east1.run.app/)
+
+FastAPI Deployment[link](https://fastapi-service-61122194920.us-east1.run.app/docs)
+
 WE ATTEST THAT WE HAVEN'T USED ANY OTHER STUDENTS' WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
-Contribution: 
-Vaishnavi Veerkumar: Google Cloud Storage setup, Airflow pipeline for downloading PDFs from Hugging Face to Google Cloud Storage, updated pipeline to include extraction of contents from the PDFs using PyPDF library and PDF.co API, uploading extracted text back to GCS, setting up Google Cloud Run, and deploying FASTAPI and Streamlit using Docker to Google Cloud.
-Sriram Venkatesh: Poetry setup, FastAPI JWT token code, dotenv structure, Google cloud Storage setup and configuration, Documentation, Integration of FastAPI with Streamlit, Diagrams code, Readme for Github, connection with cloud of google cloud MySQL
-Siddharth Pawar: Streamlit, Documentation
+
+## Contribution: 
+
+**Vaishnavi Veerkumar: (34%)** Google Cloud Storage setup, Airflow pipeline for downloading PDFs from Hugging Face to Google Cloud Storage, updated pipeline to include extraction of contents from the PDFs using PyPDF library and PDF.co API, uploading extracted text back to GCS, setting up Google Cloud Run, and deploying FASTAPI and Streamlit using Docker to Google Cloud.
+
+**Sriram Venkatesh: (33%**) Poetry setup, FastAPI JWT token code, dotenv structure, Google cloud Storage setup and configuration, Documentation, Integration of FastAPI with Streamlit, Diagrams code, Readme for Github, connection with cloud of google cloud MySQL
+
+**Siddharth Pawar (33%)**: Code for Saving User Details in the mySQL Database hosted on Google cloud, FastAPI code for fetching the PDFs, Fetching the Extracts from GCS according to the chosen option PyPDF or PDF.co, Integrating the app with Open AI using the OpenAI API key, Streamlit UI : Beautification & Completeness (Regsiter, Login and Main Page),  Documentation : CodeLabs & PDF Extraction Tool Evaluation Template
 
 ## Table of Contents
 ![Project Architecture](Diagrams/system_architecture.png)
