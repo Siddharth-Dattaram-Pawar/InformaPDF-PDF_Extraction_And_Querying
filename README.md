@@ -4,10 +4,12 @@
 
 This project, titled "InformaPDF," is designed to streamline the process of text extraction from PDF files and provide a secure, user-friendly client-facing application. The project consists of two main parts: automating text extraction using Airflow pipelines and developing a client-facing application using Streamlit and FastAPI.
 
+Codelab [link](https://codelabs-preview.appspot.com/?file_id=1PtPbQA_wmCll14lt--FDn1jZeQYlErJ-qFyUNH8iI1g#0)
+
 WE ATTEST THAT WE HAVEN'T USED ANY OTHER STUDENTS' WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
 Contribution: 
-Vaishnavi Veerkumar: Airflow, DAG, Deployment
-Sriram Venkatesh: FastAPI, GCS, Documentation
+Vaishnavi Veerkumar: Google Cloud Storage setup, Airflow pipeline for downloading PDFs from Hugging Face to Google Cloud Storage, updated pipeline to include extraction of contents from the PDFs using PyPDF library and PDF.co API, uploading extracted text back to GCS, setting up Google Cloud Run, and deploying FASTAPI and Streamlit using Docker to Google Cloud.
+Sriram Venkatesh: Poetry setup, FastAPI JWT token code, dotenv structure, Google cloud Storage setup and configuration, Documentation, Integration of FastAPI with Streamlit, Diagrams code, Readme for Github, connection with cloud of google cloud MySQL
 Siddharth Pawar: Streamlit, Documentation
 
 ## Table of Contents
@@ -105,14 +107,16 @@ airflow scheduler
 To run the FastAPI application, use the following command:
 
 ```bash
-cd fastapi
-poetry run uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+docker build -t gcr.io/[GCP_PROJECT_ID]/fastapi-app -f [FASTAPI_DOCKERFILE] .
+docker push gcr.io/[GCP_PROJECT_ID]/fastapi-app
+gcloud run deploy fastapi-service --image gcr.io/[GCP_PROJECT_ID]/fastapi-app --platform managed --region us-east1 --allow-unauthenticated --port 8000
 ```
 
 ## Streamlit Application
 ```bash
-cd streamlit
-poetry run streamlit run app.py
+docker build -t gcr.io/[GCP_PROJECT_ID]/streamlit-app -f [STREAMLIT_DOCKERFILE] .
+docker push gcr.io/[GCP_PROJECT_ID]/streamlit-app
+gcloud run deploy streamlit-service --image gcr.io/[GCP_PROJECT_ID]/streamlit-app --platform managed --region us-east1 --allow-unauthenticated --port 8501
 ```
 
 ## Deployment
