@@ -11,7 +11,7 @@ Sriram Venkatesh: FastAPI, GCS, Documentation
 Siddharth Pawar: Streamlit, Documentation
 
 ## Table of Contents
-- ![Project Architecture](Diagrams/system_architecture.png)
+![Project Architecture](Diagrams/system_architecture.png)
 - [Technologies Used](#technologies-used)
 - [Setup and Installation](#setup-and-installation)
 - [Environment Setup](#environment-setup)
