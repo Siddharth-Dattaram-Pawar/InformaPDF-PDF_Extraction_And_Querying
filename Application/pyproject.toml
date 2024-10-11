@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "assignmnet2-fastapi"
+version = "0.1.0"
+description = "Poetry for FASTAPI"
+authors = ["Your Name <you@example.com>"]
+license = "n"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+streamlit = "^1.39.0"
+requests = "^2.32.3"
+fastapi = "^0.115.0"
+google-cloud = "^0.34.0"
+uvicorn = "^0.31.0"
+google-cloud-storage = "^2.18.2"
+python-jose = {extras = ["cryptography"], version = "^3.3.0"}
+python-multipart = "^0.0.12"
+bcrypt = "^4.2.0"
+mysql-connector-python = "^9.0.0"
+python-dotenv = "^1.0.1"
+openai = "0.28.0"
+ 
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
