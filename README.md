@@ -2,7 +2,9 @@
 
 ## Project Overview
 
-This project, titled "InformaPDF," is designed to streamline the process of text extraction from PDF files and provide a secure, user-friendly client-facing application. The project consists of two main parts: automating text extraction using Airflow pipelines and developing a client-facing application using Streamlit and FastAPI.
+The project, titled "InformaPDF", also features a client-facing application built using FastAPI and Streamlit, enabling users to securely browse and query PDFs. JWT authentication was integrated to ensure secure user access, while the OpenAI API was utilized for intelligent content querying and response generation. User data, including hashed credentials, was securely stored in a MySQL database hosted on Google Cloud Platform (GCP).
+
+**Details :** Developed an Airflow pipeline to automate the fetching, extraction, and storage of PDFs from the GAIA Hugging Face Repository. Text extraction was implemented using PyPDF2 (open-source) and PDF.co (API/enterprise), with the extracted content stored in Google Cloud Storage (GCS) for efficient access and processing.Docker was employed for containerization, streamlining the deployment of the Airflow pipeline, FastAPI backend, and Streamlit frontend. The project successfully combines automation, text extraction, and user interaction to deliver a streamlined and secure solution for PDF text extraction and exploration.
 
 [![Codelabs](https://img.shields.io/badge/Codelabs-green?style=for-the-badge)](https://codelabs-preview.appspot.com/?file_id=1PtPbQA_wmCll14lt--FDn1jZeQYlErJ-qFyUNH8iI1g#0)
 
@@ -37,14 +39,18 @@ WE ATTEST THAT WE HAVEN'T USED ANY OTHER STUDENTS' WORK IN OUR ASSIGNMENT AND AB
 
 ## Technologies Used
 
-- **Apache Airflow**: For automating the data acquisition process for PDF files.
-- **Text Extraction Tools**: Pypdf (open-source) and PDF.co (API/enterprise) for text extraction.
-- **FastAPI**: For implementing user registration, login functionality, and JWT authentication.
-- **Streamlit**: For developing the user-friendly registration, login, and Question Answering interface.
-- **SQL Database**: For storing user login credentials securely.
-- **Docker Compose**: For containerizing and deploying the applications to a public cloud platform.
-- **GitHub**: For version control and collaboration.
-- **OpenAI API:** Enable intelligent querying and response generation based on user query related to the extracted content
+| **Technology/Tool**         | **Purpose**                                                                                         |
+|-----------------------------|-----------------------------------------------------------------------------------------------------|
+| **Apache Airflow**          | Automates the data acquisition process for PDF files.                                              |
+| **Text Extraction Tools**   | Utilized PyPDF (open-source) and PDF.co (API/enterprise) for text extraction from PDFs.             |
+| **FastAPI**                 | Implements user registration, login functionality, and JWT authentication.                         |
+| **Streamlit**               | Develops a user-friendly interface for registration, login, and Question Answering.                |
+| **Google Cloud Storage (GCS)** | Stores PDFs fetched from Hugging Face and extracted text for efficient access and processing.    |
+| **Google Cloud SQL**        | Stores user data, including hashed login credentials, ensuring scalability and secure data management. |
+| **Docker Compose**          | Containerizes and deploys applications to a public cloud platform.                                 |
+| **GitHub**                  | Facilitates version control and collaboration.                                                     |
+| **OpenAI API**              | Enables intelligent querying and response generation based on user queries related to extracted content. |
+
 
 ## Setup and Installation
 
@@ -67,8 +73,8 @@ curl -sSL https://install.python-poetry.org | sh
 
 # Clone the repository
 ```bash
-git clone https://github.com/your-repo/your-project.git
-cd your-project
+git clone https://github.com/Siddharth-Dattaram-Pawar/InformaPDF-PDF_Extraction_And_Querying.git
+cd InformaPDF-PDF_Extraction_And_Querying
 ```
 
 # Install dependencies using poetry
@@ -97,16 +103,16 @@ load_dotenv()
 
 # Access the environment variables
 database_url = os.getenv('DATABASE_URL')
-s3_bucket = os.getenv('S3_BUCKET')
 pdf_co_api_key = os.getenv('PDF_CO_API_KEY')
+openai_api_key = os.getenv('OPENAI_API_KEY')
 ```
 
 ### Example Environment Variables
 
 ```bash
 export DATABASE_URL="your_database_url"
-export S3_BUCKET="your_s3_bucket"
 export PDF_CO_API_KEY="your_pdf_co_api_key"
+export OPENAI_API_KEY="your-openai-api-key"
 ```
 
 ## Running the Project
@@ -149,5 +155,14 @@ docker-compose up -d
 
 
 ## License
+-------
 
-[MIT](https://choosealicense.com/licenses/mit/)
+MIT License
+
+Copyright (c) 2024
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
