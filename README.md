@@ -1,4 +1,4 @@
-# InformaPDF-PDF_Extraction_And_Querying
+# InformaPDF- AI_Based_PDF_Extractor_And_Querying
 
 ## Project Overview
 
